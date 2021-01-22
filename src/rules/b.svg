@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="554.01599"
+   height="1079.3707"
+   viewBox="0 0 554.01599 1079.3707"><metadata
+     id="metadata8"><rdf:RDF>
+<rdf:Description
+   rdf:about="">
+      <dct:source
+   rdf:resource="https://github.com/dxc-technology/ThreatDeck">
+        <rdf:Alt>
+          <rdf:li
+   xml:lang="x-default">Based on a work at &lt;a rel=&quot;dct:source&quot; href=&quot;https://github.com/dxc-technology/ThreatDeck&quot;&gt;&lt;/a&gt;.</rdf:li>
+        </rdf:Alt>
+      </dct:source>
+    </rdf:Description>
+  <cc:Work
+   rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <cc:license
+   rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+    <cc:attributionName>DXC Technology Company</cc:attributionName>
+    <cc:attributionURL
+   rdf:resource="https://dxc.technology" />
+  <dc:title></dc:title></cc:Work>
+  <cc:License
+   rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+  <requires
+   rdf:resource="http://creativecommons.org/ns#Attribution" />
+  <permits
+   rdf:resource="http://creativecommons.org/ns#Reproduction" />
+  <permits
+   rdf:resource="http://creativecommons.org/ns#Distribution" />
+  <permits
+   rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+  <requires
+   rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+  <requires
+   rdf:resource="http://creativecommons.org/ns#Notice" />
+  </cc:License>
+</rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+   id="clipPath244"
+   clipPathUnits="userSpaceOnUse"><path
+     id="path242"
+     d="M 0,0 H 415.512 V 809.528 H 0 Z" /></clipPath>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</defs><path
+     d="M 16.22,1062.4827 H 537.12799 V 16.88806 H 16.22 Z"
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+     id="path12" /><g
+     transform="translate(0,-1.3676758)"
+     id="g419"><text
+       y="641.64178"
+       x="72.91333"
+       id="text148"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan146"
+         y="641.64178"
+         x="72.91333 85.713333 97.41333 109.45333 121.59333 134.07333 138.93333 150.05333 162.19333 170.29333 181.87132 193.11133 199.35133 204.21133 218.57133 230.27133 242.31133 254.79132 260.37134 271.61133 276.47134 289.17133 297.19131 305.01132 317.49133 328.65134">Round Three: Double Attack</tspan></text><text
+       y="660.7547"
+       x="72.91333"
+       id="text152"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan150"
+         y="660.7547"
+         x="72.91333 80.41333 83.76133 91.249329 98.509331 105.25333 110.06533 116.05333">Players:</tspan></text><text
+       y="660.7547"
+       x="122.83293"
+       id="text156"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan154"
+         y="660.7547"
+         x="122.83293 129.79292 132.63693 139.72893 146.03973 152.29173 155.32773 162.41972 169.19972 176.00372 179.03973 186.11972 191.51973 196.91972 203.12373 207.39572 210.43172 216.76653 223.85854 227.95053 235.04253 238.07852 245.17052 251.95053 259.04254 262.07852 264.92252 269.12253 274.52252 277.55853 282.95853 289.70251 296.79453 303.88654 306.73053 309.57452 315.92133 323.01334 326.04932 334.34134 340.47333 344.56534 350.81732 357.59732 363.90811 370.16013 373.19614 379.53214 386.62411 390.71613 397.80814 402.93213">Place any Asset card and its supplied Defence cards.</tspan></text><text
+       y="683.64709"
+       x="72.91333"
+       id="text160"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan158"
+         y="683.64709"
+         x="72.91333 81.529335 88.417336 95.905334 99.253326 105.99733 110.89333">Dealer:</tspan></text><text
+       y="683.64709"
+       x="117.67266"
+       id="text164"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan162"
+         y="683.64709"
+         x="117.67266 124.81266 131.06467 138.15666 144.50465 151.59666 155.86865 158.90466 166.04346 172.71545 179.45946 186.23946 193.33145 196.36746 205.93146 212.71146 218.96346 221.99947 230.29146 236.63945 243.73146 246.57545 252.82745 257.15945 260.19547 265.40225 269.60226 275.85425 282.94626 288.34625 291.38226 295.65427 304.59424 307.43826 313.75024 319.76227 323.19427 326.23026 332.67307 339.76508 346.00507 352.79706 355.83307 362.92505 365.76904 372.86105 379.66504 385.91705 390.24905 393.28506 403.26904 410.01303 415.22104 419.49304 422.52905 426.69305 433.01706 439.32904 445.58105 448.42505 453.98105 460.23303">Repeat Round One Dealer steps twice. Each player must receive </tspan></text><text
+       y="698.98041"
+       x="72.91333"
+       id="text168"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan166"
+         y="698.98041"
+         x="72.91333 77.185333 85.873329 92.545334 95.581329 102.44533 106.71733 110.91733 118.00933 124.24933 130.30933 133.34534 139.68013 146.77213 150.86414 157.95613 163.08012">two Attack cards.</tspan></text></g><g
+     transform="translate(0,-57.628479)"
+     id="g373"><text
+       y="781.16589"
+       x="72.91333"
+       id="text172"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan170"
+         y="781.16589"
+         x="72.91333 85.713333 97.41333 109.45333 121.59333 134.07333 138.93333 149.79134 161.49133 173.53133 181.69133">Round Four:</tspan></text><text
+       y="800.27887"
+       x="72.91333"
+       id="text176"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan174"
+         y="800.27887"
+         x="72.91333 80.41333 83.76133 91.249329 98.509331 105.25333 110.06533 116.05333">Players:</tspan></text><text
+       y="800.27887"
+       x="122.83293"
+       id="text180"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan178"
+         y="800.27887"
+         x="122.83293 129.79292 132.63693 139.72893 146.03973 152.29173 155.32773 162.41972 169.19972 176.00372 179.03973 186.11972 191.51973 196.91972 203.12373 207.39572 210.43172 216.76653 223.85854 227.95053 235.04253 238.07852 245.17052 251.95053 259.04254 262.07852 264.92252 269.12253 274.52252 277.55853 282.95853 289.70251 296.79453 303.88654 306.73053 309.57452 315.92133 323.01334 326.04932 334.34134 340.47333 344.56534 350.81732 357.59732 363.90811 370.16013 373.19614 379.53214 386.62411 390.71613 397.80814 402.93213">Place any Asset card and its supplied Defence cards.</tspan></text><text
+       y="823.17126"
+       x="72.91333"
+       id="text184"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan182"
+         y="823.17126"
+         x="72.91333 81.529335 88.417336 95.905334 99.253326 105.99733 110.89333">Dealer:</tspan></text><text
+       y="823.17126"
+       x="117.67266"
+       id="text188"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan186"
+         y="823.17126"
+         x="117.67266 124.81266 131.06467 138.15666 144.50465 151.59666 155.86865 158.90466 166.04346 172.71545 179.45946 186.23946 193.33145 196.36746 205.93146 212.71146 218.96346 221.99947 230.29146 236.63945 243.73146 246.57545 252.82745 257.15945 260.19547 265.40225 269.60226 275.85425 282.94626 288.07025">Repeat Round One Dealer steps.</tspan></text></g><text
+     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+     id="text228"
+     x="72.91333"
+     y="113.04726"><tspan
+       x="72.91333 104.79066 139.592 162.812 195.72133 231.49733 254.08667 295.25198 328.44226 360.43427"
+       y="113.04726"
+       id="tspan226"
+       style="stroke-width:1.33333">ThreatDeck</tspan></text><text
+     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+     id="text232"
+     x="72.91333"
+     y="153.04726"><tspan
+       x="72.91333 83.243996 104.28667 121.34266 135.00133 149.14532 170.01466 189.28932 202.948 212.62 232.89999 253.94266 271.24133"
+       y="153.04726"
+       id="tspan230"
+       style="stroke-width:1.33333">Instructions </tspan></text><g
+     id="g234"
+     transform="matrix(1.3333333,0,0,-1.3333333,72.913465,172.90819)"><path
+       d="M 0,0 H 306.142"
+       style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path236" /></g><g
+     transform="translate(0,-76.136719)"
+     id="g393"><text
+       y="869.84833"
+       x="72.91333"
+       id="text192"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan190"
+         y="869.84833"
+         x="72.91333 85.713333 97.41333 109.45333 121.59333 134.07333 138.93333 149.75333 155.33333 165.87132 177.11133 183.35133 188.21133 199.03133 204.61133 216.75133 229.23134">Round Five: Final</tspan></text><text
+       id="text196"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+       x="72.91333"
+       y="888.96124"><tspan
+         style="stroke-width:1.33333"
+         id="tspan194"
+         y="888.96124"
+         x="72.91333 80.41333 83.76133 91.249329 98.509338 105.25333 110.06534 116.05333">Players:</tspan></text><text
+       y="911.85364"
+       x="72.91333"
+       id="text204"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan202"
+         y="911.85364"
+         x="72.91333 81.529335 88.417336 95.905334 99.253326 105.99733 110.89333 113.80933 118.03333 124.96813 129.66013 137.14813 144.43213 151.92014 159.40813 164.14813 171.63612 175.86012">Dealer (Standard):</tspan></text><text
+       y="911.85364"
+       x="182.64014"
+       id="text208"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan206"
+         y="911.85364"
+         x="182.64014 189.78014 196.03214 203.12413 209.47214 216.56413 220.83612 223.87213 231.01093 237.68292 244.42693 251.20692 258.29892 261.33493 270.89893 277.67892 283.93094 286.96692 295.25894 301.60693 308.69891 311.54294 317.79492 322.12692 325.16293 330.36972 334.56973 340.82172 347.91373 353.31372 356.34973 360.62173 367.41373 371.57773 377.90173 384.15372 387.18973 391.46173 394.30573 404.28973 410.54172 415.66452 419.09653">Repeat Round One Dealer steps three times. </tspan></text><text
+       y="927.18695"
+       x="72.91333"
+       id="text212"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan210"
+         y="927.18695"
+         x="72.91333 79.35733 86.449333 92.689331 99.481331 102.51733 109.60933 112.45333 119.54533 126.34933 132.60133 136.93333 139.96933 149.95332 156.69733 161.90413 166.17613 169.21213 173.37613 179.70013 186.01093 192.26292 195.10693 200.66293 206.91493 209.95093 214.22293 221.01494 225.17894 231.50293 237.75493 240.79094 247.65492 251.92691 256.12692 263.21893 269.45892 275.51892 278.55493 284.88974 291.98172 296.07373 303.16574 308.28973">Each player must receive three Attack cards.</tspan></text><text
+       y="950.07935"
+       x="72.91333"
+       id="text216"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan214"
+         y="950.07935"
+         x="72.91333 81.529335 88.417336 95.905334 99.253326 105.99733 110.89333 113.80933 118.03333 126.45733 133.94533 138.68413 146.17213 150.39613 154.14014">Dealer (Hard): </tspan></text><text
+       y="950.07935"
+       x="157.05626"
+       id="text220"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan218"
+         y="950.07935"
+         x="157.05626 164.19626 170.44826 177.54025 183.88826 190.98026 195.25226 198.28825 205.42706 212.09906 218.84306 225.62306 232.71506 235.75105 245.31506 252.09506 258.34705 261.38306 269.67505 276.02304 283.11505 285.95905 292.21106 296.54306 299.57904 306.14185 310.34186 316.59384 323.68585 329.08585 332.12186 338.86584 345.48984 349.76187 352.60587 355.44986 358.48587 365.15787 371.93784 378.18985 381.22586 388.31784 391.16183 398.25385 405.05786 411.30984 415.64185 418.67786 422.84186 429.09384 439.07785 446.16986 449.01385 455.79385 461.19385">Repeat Round One Dealer Steps until one player remains </tspan></text><text
+       y="965.41272"
+       x="72.91333"
+       id="text224"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan222"
+         y="965.41272"
+         x="72.91333 79.585335 83.917336 86.953331 94.045334 96.889336 99.73333 102.76933 109.86133 112.70533 119.79733 126.60133 132.85333 137.01613 142.41614 145.45213 152.54413 156.70813 162.96013 165.99614 172.24812 175.09213 177.93613 187.92012 190.76413 197.54413 204.63612 208.83493 215.18294 222.27493">or all players are eliminated.</tspan></text><text
+       id="text282"
+       y="888.96124"
+       x="123.46375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="888.96124"
+         x="123.46375"
+         id="tspan280">Place final Asset and its supplied Defence Cards</tspan></text></g><text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+     x="73.44133"
+     y="911.06073"
+     id="text1777"><tspan
+       x="73.44133"
+       y="911.06073"
+       style="font-size:10.6667px;text-align:start;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       id="tspan1779">© DXC Technology Company XXXX</tspan></text><g
+     id="g7063"
+     transform="translate(-595.96679,771.32809)"><path
+       id="path3817_2_"
+       nodetypes="ccccccc"
+       d="m 671.46232,221.5089 58.7477,0.10469 c 0.8208,0 1.5542,-0.12208 1.5542,1.63774 l -0.072,19.34635 h -61.7125 v -19.41827 c 0,-0.86752 0.084,-1.6704 1.4825,-1.6704 z"
+       style="fill:#aab2ab;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none" /><path
+       style="fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       d="m 687.58782,231.40722 c 0,3.90213 -3.1597,7.06722 -7.0623,7.06998 -3.9025,0.002 -7.0684,-3.15931 -7.0707,-7.06141 0,-0.003 0,-0.004 0,-0.008 0,-3.90258 3.1597,-7.06767 7.0622,-7.06994 3.903,-0.002 7.0685,3.1593 7.0708,7.0614 0,0.002 0,0.004 0,0.008 z"
+       rx="22.939548"
+       type="arc"
+       cy="264.3577"
+       ry="22.939548"
+       cx="296.35416"
+       id="path5906_2_" /><path
+       style="stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       id="path5708_2_"
+       d="m 686.26572,225.6519 c 1.567,1.56707 2.3506,3.48567 2.3506,5.75535 0,2.26987 -0.77,4.16788 -2.3101,5.69447 -1.6344,1.60785 -3.5661,2.41149 -5.795,2.41149 -2.202,0 -4.1002,-0.79688 -5.6941,-2.39135 -1.5942,-1.59398 -2.3911,-3.49878 -2.3911,-5.71461 0,-2.21563 0.7969,-4.13397 2.3911,-5.75535 1.5534,-1.56733 3.4516,-2.35064 5.6941,-2.35064 2.2697,0 4.1875,0.78331 5.7545,2.35064 z m -10.3936,1.05411 c -1.3249,1.33799 -1.987,2.90532 -1.987,4.70325 0,1.79739 0.6556,3.35138 1.9666,4.66201 1.3112,1.31108 2.8722,1.96664 4.6834,1.96664 1.8112,0 3.3855,-0.6621 4.7237,-1.98652 1.2704,-1.22986 1.9059,-2.77686 1.9059,-4.64213 0,-1.85125 -0.6458,-3.42233 -1.9366,-4.71334 -1.2907,-1.29048 -2.8549,-1.93595 -4.693,-1.93595 -1.8381,0 -3.3928,0.64876 -4.663,1.94604 z m 3.4863,3.91238 c -0.2026,-0.44126 -0.5055,-0.66183 -0.9096,-0.66183 -0.7145,0 -1.0716,0.48079 -1.0716,1.44238 0,0.96181 0.3572,1.44261 1.0716,1.44261 0.4718,0 0.8088,-0.23433 1.011,-0.7036 l 0.9903,0.52736 c -0.472,0.8386 -1.1802,1.25824 -2.1245,1.25824 -0.7283,0 -1.3118,-0.22337 -1.7499,-0.66962 -0.4388,-0.44655 -0.6576,-1.06212 -0.6576,-1.84668 0,-0.77125 0.2256,-1.3833 0.6778,-1.83666 0.4519,-0.45313 1.0147,-0.67994 1.6894,-0.67994 0.9982,0 1.7129,0.3933 2.1449,1.17907 z m 4.6593,0 c -0.2026,-0.44126 -0.4998,-0.66183 -0.8913,-0.66183 -0.7288,0 -1.0934,0.48079 -1.0934,1.44238 0,0.96181 0.3647,1.44261 1.0934,1.44261 0.4725,0 0.8035,-0.23433 0.9924,-0.7036 l 1.0124,0.52736 c -0.4712,0.8386 -1.1784,1.25824 -2.121,1.25824 -0.7273,0 -1.3094,-0.22337 -1.7473,-0.66962 -0.4371,-0.44655 -0.6561,-1.06212 -0.6561,-1.84668 0,-0.77125 0.2222,-1.3833 0.6667,-1.83666 0.4441,-0.45313 1.0094,-0.67994 1.6965,-0.67994 0.9964,0 1.7101,0.3933 2.1406,1.17907 z" /><path
+       style="stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       d="m 730.72352,221.26194 h -59.863 c -0.6421,0 -1.1644,0.52252 -1.1644,1.16451 v 20.33961 c 0,0.14513 0.1175,0.26305 0.2627,0.26305 h 61.6661 c 0.145,0 0.263,-0.11792 0.263,-0.26305 v -20.33961 c 0,-0.64199 -0.5223,-1.16451 -1.1644,-1.16451 z m -59.863,0.52607 h 59.863 c 0.3521,0 0.6383,0.28649 0.6383,0.63844 0,0 0,8.19825 0,14.12005 h -42.7865 c -1.5682,2.83522 -4.5896,4.76036 -8.057,4.76036 -3.469,0 -6.4896,-1.9234 -8.0571,-4.76036 h -2.2395 c 0,-5.9218 0,-14.12005 0,-14.12005 0,-0.35187 0.2865,-0.63844 0.6388,-0.63844 z"
+       id="path294" /><path
+       style="fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       id="path298"
+       d="m 714.40362,240.81726 c 0.041,0.0801 0.097,0.14513 0.1655,0.19502 0.069,0.0495 0.1494,0.0865 0.2419,0.11036 0.093,0.0227 0.1892,0.0378 0.2882,0.0378 0.067,0 0.1388,-0.004 0.2158,-0.0151 0.076,-0.0113 0.1484,-0.034 0.2158,-0.065 0.067,-0.0302 0.1232,-0.0763 0.1675,-0.13228 0.045,-0.0559 0.067,-0.12737 0.067,-0.21392 0,-0.093 -0.029,-0.16781 -0.089,-0.22564 -0.059,-0.0578 -0.1368,-0.10545 -0.2329,-0.14438 -0.096,-0.0382 -0.2047,-0.0718 -0.3259,-0.10091 -0.1218,-0.0302 -0.245,-0.0609 -0.3697,-0.0964 -0.1282,-0.0302 -0.253,-0.0711 -0.3747,-0.11754 -0.1212,-0.0461 -0.2304,-0.10659 -0.3264,-0.18029 -0.096,-0.0737 -0.1736,-0.16554 -0.2329,-0.27628 -0.059,-0.11074 -0.089,-0.24454 -0.089,-0.40131 0,-0.1765 0.038,-0.32958 0.1126,-0.45918 0.075,-0.12963 0.1741,-0.23773 0.2958,-0.32466 0.1212,-0.0865 0.259,-0.1508 0.4129,-0.19238 0.1534,-0.0416 0.3073,-0.0624 0.4607,-0.0624 0.1796,0 0.3516,0.0189 0.5166,0.0605 0.1645,0.0401 0.3113,0.10508 0.4391,0.19503 0.1282,0.0899 0.2299,0.20447 0.3053,0.34394 0.075,0.13946 0.1127,0.30878 0.1127,0.50743 h -0.7324 c -0.01,-0.10242 -0.028,-0.18746 -0.064,-0.25474 -0.037,-0.0673 -0.085,-0.12018 -0.1458,-0.15874 -0.061,-0.0382 -0.1303,-0.0658 -0.2082,-0.0816 -0.079,-0.0151 -0.1635,-0.0227 -0.2561,-0.0227 -0.06,0 -0.1212,0.008 -0.1815,0.0189 -0.061,0.0113 -0.1157,0.034 -0.165,0.0673 -0.05,0.034 -0.091,0.0722 -0.1222,0.12019 -0.032,0.0484 -0.048,0.10923 -0.048,0.18293 0,0.0673 0.012,0.12208 0.038,0.16366 0.026,0.0416 0.076,0.0801 0.1514,0.11527 0.075,0.034 0.179,0.0707 0.3118,0.10583 0.1328,0.034 0.3063,0.0801 0.5211,0.13455 0.064,0.0113 0.1524,0.0378 0.2661,0.0699 0.1136,0.034 0.2263,0.0873 0.3385,0.16101 0.1122,0.0741 0.2087,0.17234 0.2907,0.29556 0.082,0.12359 0.1222,0.28119 0.1222,0.47372 0,0.15723 -0.031,0.30312 -0.091,0.43756 -0.061,0.13493 -0.1514,0.25096 -0.2716,0.34847 -0.1202,0.0979 -0.2691,0.17386 -0.4466,0.22866 -0.1781,0.0544 -0.3843,0.0816 -0.6177,0.0816 -0.1891,0 -0.3727,-0.0227 -0.5507,-0.0699 -0.1776,-0.0465 -0.335,-0.11981 -0.4713,-0.21921 -0.1358,-0.0998 -0.2439,-0.2264 -0.3244,-0.38045 -0.08,-0.15421 -0.1182,-0.33676 -0.1152,-0.54845 h 0.7323 c 0,0.11528 0.021,0.21317 0.062,0.29329 z" /><path
+       style="fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       id="path300"
+       d="m 718.65632,238.2338 1.284,3.43189 h -0.7841 l -0.2595,-0.76445 h -1.2841 l -0.2691,0.76445 h -0.7595 l 1.2982,-3.43189 z m 0.043,2.10417 -0.4326,-1.25828 h -0.01 l -0.4477,1.25828 z" /><path
+       style="fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       id="path304"
+       d="m 700.79022,238.2338 c 0.1635,0 0.3129,0.0151 0.4477,0.0431 0.1348,0.0302 0.2504,0.0763 0.347,0.14173 0.096,0.0658 0.171,0.15269 0.2238,0.26192 0.053,0.10885 0.08,0.2434 0.08,0.40358 0,0.1731 -0.039,0.31672 -0.1181,0.43226 -0.079,0.11528 -0.1952,0.20977 -0.3491,0.28347 0.2123,0.0609 0.3707,0.16743 0.4753,0.31974 0.1046,0.15232 0.1569,0.336 0.1569,0.55068 0,0.1731 -0.034,0.32277 -0.1011,0.44961 -0.067,0.12662 -0.1584,0.2298 -0.2721,0.30993 -0.1142,0.0801 -0.2444,0.13946 -0.3903,0.17763 -0.1464,0.0385 -0.2962,0.0578 -0.4507,0.0578 h -1.6668 v -3.43189 h 1.6181 z m -0.097,1.38803 c 0.1348,0 0.2455,-0.0302 0.3325,-0.096 0.086,-0.0642 0.1297,-0.16781 0.1297,-0.31143 0,-0.0801 -0.015,-0.14552 -0.043,-0.19654 -0.029,-0.0514 -0.067,-0.0911 -0.1157,-0.11981 -0.048,-0.0302 -0.1036,-0.0488 -0.166,-0.0597 -0.063,-0.0113 -0.1277,-0.0151 -0.1951,-0.0151 h -0.7072 v 0.80061 z m 0.044,1.45644 c 0.074,0 0.1444,-0.008 0.2118,-0.0227 0.067,-0.0151 0.1273,-0.0385 0.1785,-0.0718 0.051,-0.034 0.092,-0.0794 0.1228,-0.13719 0.031,-0.0574 0.046,-0.13115 0.046,-0.22111 0,-0.17612 -0.05,-0.3016 -0.1494,-0.37682 -0.1,-0.0752 -0.2314,-0.113 -0.3948,-0.113 h -0.8239 v 0.94144 z" /><path
+       style="fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       id="path306"
+       d="m 702.18652,238.2338 h 0.8465 l 0.8037,1.35534 0.7987,-1.35534 h 0.8415 l -1.274,2.11476 v 1.31713 h -0.7565 v -1.33626 z" /><path
+       style="fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       d="m 722.76802,229.02596 c 0,3.02929 -2.4519,5.48704 -5.4818,5.48927 -3.0294,0.002 -5.4874,-2.4517 -5.49,-5.48122 0,-0.003 0,-0.004 0,-0.008 0,-3.02955 2.4525,-5.48681 5.4819,-5.48931 3.0299,-0.002 5.4879,2.45197 5.4899,5.48126 0,0.003 0,0.004 0,0.008 z"
+       rx="29.209877"
+       type="arc"
+       cy="252.08646"
+       ry="29.209877"
+       cx="475.97119"
+       id="path6318_1_" /><path
+       style="stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       id="path6322_1_"
+       d="m 717.24292,223.01685 c -1.6648,0 -3.0737,0.58088 -4.227,1.74236 -1.1835,1.20197 -1.7749,2.62421 -1.7749,4.26671 0,1.64251 0.5914,3.05496 1.7749,4.23655 1.183,1.18186 2.5923,1.77279 4.227,1.77279 1.6548,0 3.0887,-0.59596 4.3029,-1.78787 1.1428,-1.13155 1.7146,-2.53893 1.7146,-4.22147 0,-1.68223 -0.5819,-3.10499 -1.7453,-4.26671 -1.1633,-1.16148 -2.5872,-1.74236 -4.2722,-1.74236 z m 0.015,1.08151 c 1.3641,0 2.5224,0.48053 3.4755,1.44212 0.9622,0.95153 1.4436,2.11325 1.4436,3.48544 0,1.38203 -0.4708,2.52892 -1.4139,3.44043 -0.9929,0.98147 -2.1613,1.47205 -3.5052,1.47205 -1.3439,0 -2.5023,-0.48582 -3.475,-1.45693 -0.9728,-0.97187 -1.4591,-2.1233 -1.4591,-3.45555 0,-1.33194 0.4914,-2.49392 1.4742,-3.48544 0.9425,-0.96159 2.0958,-1.44212 3.4599,-1.44212 z" /><path
+       style="stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       id="path6324_1_"
+       d="m 714.57922,228.17776 c 0.2394,-1.512 1.3042,-2.32018 2.6381,-2.32018 1.9188,0 3.0877,1.39204 3.0877,3.24832 0,1.81126 -1.2439,3.21842 -3.1179,3.21842 -1.2891,0 -2.443,-0.79336 -2.6532,-2.34989 h 1.5139 c 0.045,0.80818 0.5699,1.09259 1.3193,1.09259 0.8541,0 1.4094,-0.79336 1.4094,-2.00614 0,-1.27211 -0.4799,-1.94577 -1.3797,-1.94577 -0.6594,0 -1.2287,0.23962 -1.349,1.06265 l 0.4406,-0.002 -1.192,1.19142 -1.1915,-1.19142 z" /><ellipse
+       style="fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       id="circle315"
+       cy="229.14841"
+       cx="702.5332"
+       rx="5.5657487"
+       ry="5.565125" /><path
+       style="stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       d="m 704.14402,227.53807 c 0,-0.21429 -0.174,-0.388 -0.3882,-0.388 h -2.4581 c -0.2142,0 -0.3883,0.17348 -0.3883,0.388 v 2.45798 h 0.6856 v 2.91088 h 1.863 v -2.91088 h 0.686 z"
+       id="path319" /><ellipse
+       style="stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       cx="702.52673"
+       cy="225.98561"
+       id="circle321"
+       rx="0.84071314"
+       ry="0.84061897" /><path
+       style="fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+       id="path323"
+       d="m 702.51892,223.01685 c -1.6643,0 -3.0739,0.58061 -4.2272,1.74263 -1.1834,1.20144 -1.7749,2.62394 -1.7749,4.26622 0,1.64224 0.5915,3.05495 1.7749,4.23677 1.1835,1.1816 2.5928,1.77253 4.2272,1.77253 1.6548,0 3.0893,-0.5957 4.3025,-1.78787 1.1437,-1.13129 1.7151,-2.53871 1.7151,-4.22143 0,-1.68276 -0.5814,-3.10477 -1.7448,-4.26626 -1.1634,-1.16198 -2.5878,-1.74259 -4.2728,-1.74259 z m 0.015,1.08129 c 1.3641,0 2.5224,0.48079 3.4751,1.44234 0.9632,0.95127 1.4445,2.11325 1.4445,3.48522 0,1.38198 -0.4713,2.52914 -1.4144,3.44043 -0.9928,0.98143 -2.1612,1.47201 -3.5051,1.47201 -1.344,0 -2.5023,-0.48556 -3.4748,-1.4572 -0.9733,-0.97138 -1.4594,-2.12304 -1.4594,-3.45524 0,-1.33198 0.4914,-2.4937 1.4742,-3.48522 0.9428,-0.96155 2.0964,-1.44234 3.4599,-1.44234 z"
+       clip-rule="evenodd" /></g><g
+     id="g361"><text
+       y="207.20792"
+       x="72.913467"
+       id="text16"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan14"
+         y="207.20792"
+         x="72.913467 85.713463 97.413467 109.45347 121.59346 134.07346 138.93346 154.95346 167.09346 178.33347">Round One:</tspan></text><text
+       y="226.32085"
+       x="72.913467"
+       id="text20"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan18"
+         y="226.32085"
+         x="72.913467 80.413467 83.761467 91.249466 98.509468 105.25346 110.06547 116.05347 119.79746">Players: </tspan></text><text
+       y="226.32085"
+       x="122.71293"
+       id="text24"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan22"
+         y="226.32085"
+         x="122.71293 129.67293 132.51694 139.60893 145.92093 152.17293 155.20892 164.46094 171.13293 175.46492 182.55693 189.22893 193.31973 200.41173 204.61172 210.86372 213.89972 220.97974 226.37973 231.77972 237.98373 242.25572 245.29172 251.62653 258.71854 262.81052 269.90253 272.93854 280.03052 286.81052 293.90253 296.93854 303.17853 309.97052 316.71454 323.38654 328.78653 335.03851 338.07452 342.34653 351.03333 357.70532 360.74133 366.27332 370.36533 377.45734 384.54932 387.39331 391.66531 394.50934 401.18134 407.9613 415.05331 417.89734 420.93332 429.22531 435.35733 439.44934 445.70132 452.48132 458.79333 465.04532">Place Corporate Asset card and choose two Traditional Defence </tspan></text><text
+       y="241.65419"
+       x="72.913467"
+       id="text28"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan26"
+         y="241.65419"
+         x="72.913467 79.249466 86.341461 90.433464 97.525467 102.64947 106.08147">cards. </tspan></text><text
+       y="264.5466"
+       x="72.91333"
+       id="text36"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan34"
+         y="264.5466"
+         x="72.91333 81.529335 88.417336 95.905334 99.253326 105.99733 110.89333">Dealer:</tspan></text><text
+       y="264.5466"
+       x="117.67266"
+       id="text40"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan38"
+         y="264.5466"
+         x="117.67266 125.96466 130.05666 137.08865 146.02866 149.06467 153.27666 157.44066 164.11266 174.09666 177.13266 183.99666 188.26866 192.46745 199.55946 205.79945 212.03946 216.97145 226.22346 233.01546 240.10747 246.88747 253.19826 259.45026 262.48627 269.57825 275.90225 282.14227 288.20227 291.23825 298.33026 305.11026 312.20227 315.23825 322.33026 325.17426 332.26627 338.57706 344.82904 347.86505 350.70905 357.48907 360.52505 364.73706 368.90106 375.57306 382.19705 386.46906 389.50507 396.05704 400.26904 403.30505 410.26505 413.10904 420.20105 427.00504 433.25705 437.58905 440.62503 450.18906 456.96906 462.98105 466.41306">Draw from Attack/Chance deck and place in front of Player One. </tspan></text><text
+       y="279.87991"
+       x="72.91333"
+       id="text44"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan42"
+         y="279.87991"
+         x="72.91333 76.729332 83.59333 87.865334 92.065331 99.157333 105.39733 111.45733 114.49333 120.82813 127.92013 132.01213 139.10413 142.14014 152.12413 158.86813 164.07613 168.34813 171.38414 181.36813 188.46013 192.65892 198.89893 205.69093 208.72693 215.80693 221.20692 226.60693 232.81093 237.08293 240.11893 246.45494 253.54694 257.74573 264.09372 271.18573 277.85773 282.18973 288.99374 292.02972 295.66574 304.91772 311.58972 315.92172 323.01373 329.68573 333.77652 340.86853 345.06851 351.08054 354.64453 357.68051 368.46851 374.72052 381.63251 385.19653 388.23251 391.24451 397.01651 402.30853 405.87253 408.90851 415.89252 422.63651 428.03653 430.88052 437.66052 443.91251 449.31253 454.71252">(Attack card must match Asset category (Corporate, Web, IoT, Business </tspan></text><text
+       y="295.21326"
+       x="72.91333"
+       id="text48"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan46"
+         y="295.21326"
+         x="72.91333 79.993332 87.085335 94.17733 97.021332 99.865334 106.20133 113.29333 117.56533 120.40933 127.08133 133.86133 138.98413 142.54813 145.58414 154.83614 157.68013 164.35213 171.09613 178.18813 182.00414 185.04013 189.24013 195.91212 198.94814 206.04013 212.29213 215.32812 221.00293 228.09492 230.93893 233.78293 240.87492 244.43892 247.47493 254.09894 258.37094 265.16293 271.41495 275.87772 284.81772 287.66171 293.06174 299.31372 302.34973 309.44174 313.53372 320.56573 329.50574 332.54172 339.32175 345.32175 354.26172 357.29773 364.16171 368.43372 372.63251 379.72452 385.96454 392.02454 395.06052 401.39651 408.48853 412.58051 419.67252">Applications, Cloud) to be valid, otherwise draw new Attack card.</tspan></text><text
+       y="318.10553"
+       x="72.91333"
+       id="text52"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan50"
+         y="318.10553"
+         x="72.91333 80.41333 83.76133 91.249329 98.509331 105.25333 110.14933 113.06533 122.67733 129.96133 136.70534">Player One:</tspan></text><text
+       y="318.10553"
+       x="143.48466"
+       id="text56"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan54"
+         y="318.10553"
+         x="143.48466 146.49666 150.70866 153.74466 160.54866 167.22066 173.96466 178.29666 181.33266 189.62466 195.75546 199.84746 206.09946 212.87946 219.19147 225.44347 228.47946 234.81546 241.90746 245.99947 253.09146 258.49146 261.52747 267.86227 274.95425 281.73425 284.77026 291.86227 297.99426 302.08627 308.33826 315.11826 322.21027 325.24625 332.33826 339.43027 346.52225 349.36624 356.14624 361.35306 365.62506 368.66104 372.93304 379.72504 385.97705 389.01306 397.30505 403.65186 410.74384 413.58783 419.83984 424.07587 426.63184 432.03186">If your Defence cards can defend against the Dealer’s </tspan></text><text
+       y="333.43884"
+       x="72.91333"
+       id="text60"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan58"
+         y="333.43884"
+         x="72.91333 80.005333 84.277328 88.477333 95.569336 101.80933 107.68813 111.25213 114.28813 121.09213 127.76413 134.50813 137.54413 146.48413 149.32812 156.10812 159.54013 162.57613 170.59213 177.01213 185.70013 191.72414 197.28014 203.53214 207.04813 210.61214 213.64813 220.45213 227.12413 233.86813 236.90413 245.84413 248.68813 251.53212 254.37613 257.41214 261.57492 267.89893 274.21094 280.46292 283.30692 288.86295 295.11493 298.15094 305.24292 308.27893 314.84174 319.11374 323.44574 326.28973 331.77371 338.02573 341.06174 343.90573 348.11774 351.15372 357.9577 364.6297 371.37372 375.70572 378.74173 385.07654 392.16852 396.26053 403.35254 408.7525 411.78851 418.12451 425.21649 431.99652 438.77652 445.40173 449.67374">attack, you win. However, you will receive a Strike if your cards cannot </tspan></text><text
+       y="348.77219"
+       x="72.91333"
+       id="text64"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan62"
+         y="348.77219"
+         x="72.91333 81.853333 84.697334 88.96933 95.76133 100.96933 105.16933 112.26133 119.04133 126.13333 129.16933 133.44133 140.23334 146.48534 149.52133 156.61333 160.88533 165.08412 172.17613 178.41612 184.29494">withstand the attack.</tspan></text><text
+       y="371.66473"
+       x="72.91333"
+       id="text68"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan66"
+         y="371.66473"
+         x="72.91333 77.209335">• </tspan></text><text
+       y="371.66473"
+       x="80.472397"
+       id="text72"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan70"
+         y="371.66473"
+         x="80.472397 89.724396 96.816399 100.90839 108.0004 113.4004 116.43639 120.7084 127.5004 134.59239 138.8644 141.90039 148.9924 155.1232 159.21519 165.46719 172.24719 179.3392 182.3752 189.46719 196.5592 203.6512 206.49519 213.27519 218.48199 222.754 225.78999 230.062 236.85399 243.10599 246.14198 253.23399 257.50601 261.7048 268.79678 275.03677 281.0968 284.13278 291.22479 295.38879 301.64078 304.67679 311.7688 316.1008 318.94479 325.56879 329.76761 336.1156 343.20761 346.24359 352.91559 359.69559 362.7316 367.0036 373.79559 380.04758 383.08359 389.9476 394.21957 398.4184 405.51041 411.7504 417.81039 420.84641 427.1824 434.27438 438.36639 445.4584 448.89041">Cards that defend against the attack are printed on the Attack card. </tspan></text><text
+       y="392.66724"
+       x="72.91333"
+       id="text76"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan74"
+         y="392.66724"
+         x="72.91333 77.209335">• </tspan></text><text
+       y="408.00058"
+       x="80.472397"
+       id="text84"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan82"
+         y="408.00058"
+         x="80.472397 87.5644 91.836395 96.0364 103.1284 109.3684 115.4284 118.46439 123.8644 130.6084 136.91919 143.2312 149.4832 154.88319 160.2832 163.3192 169.9912 174.3232 177.35919 181.4512 188.5432 191.38719 194.2312 200.97519 205.138 211.14999">attack success or failure.</tspan></text><text
+       y="429.00323"
+       x="72.91333"
+       id="text88"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan86"
+         y="429.00323"
+         x="72.91333 77.209335">• </tspan></text><text
+       y="444.33658"
+       x="80.472397"
+       id="text96"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan94"
+         y="444.33658"
+         x="80.472397 87.336395 91.608398 95.808395 102.9004 109.1404 115.20039 118.2364 124.5712 131.66319 135.7552 142.8472 145.88319 149.9752 156.6472 160.9792 164.0152 168.2872 175.07919 181.33119 184.36719 189.7672 196.85919 206.8432 213.0952 216.1312 223.22321 226.0672 233.15919 239.9632 246.21519 249.73">Attack card for the same player.</tspan></text><text
+       y="467.22897"
+       x="72.91333"
+       id="text100"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan98"
+         y="467.22897"
+         x="72.91333 80.053329 86.305328 93.397331 99.745331 106.83733 111.10933 114.14533 120.88933 127.51213 131.78413 134.62813 137.47214 140.50813 147.60013 150.44414 153.28813 156.32413 163.41612 166.26013 173.35213 180.15613 186.40813 190.57213 195.97212 199.00813 205.80013 212.89214 218.44693 224.69893 227.73494 234.52693 241.61893 248.71094 251.74692 258.83893 261.87494 266.14694 272.89093 277.22293 284.00293 287.56693 290.60294 297.69492 304.47495 311.56693 314.60294 318.87494 325.66693 331.91891 338.69894 341.73492 348.82693 355.17252 362.26453 365.10852 371.88852 374.92453 382.06451 388.73651 395.48053 402.26053 409.35254 412.38852 417.9433 426.63135 433.06329">Repeat until all players have had a turn, and then begin Round Two.</tspan></text><text
+       xml:space="preserve"
+       style="font-style:italic;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+       x="80.120834"
+       y="429.00323"
+       id="text520"><tspan
+         id="tspan518"
+         x="80.120834"
+         y="429.00323"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff">If a Chance card is drawn, play out its effects fully. Then draw an</tspan></text><text
+       id="text512"
+       y="241.65419"
+       x="109.006"
+       style="font-style:italic;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#ffffff"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
+         y="241.65419"
+         x="109.006"
+         id="tspan510">Corporate Asset cards must always be played first.</tspan></text><text
+       id="text516"
+       y="392.66724"
+       x="80.120834"
+       style="font-style:italic;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff"
+         y="392.66724"
+         x="80.120834"
+         id="tspan514">Each Defence card on the field must remain in play, regardless of</tspan></text></g><g
+     transform="translate(0,-18.367798)"
+     id="g315"><text
+       y="513.90619"
+       x="72.91333"
+       id="text104"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan102"
+         y="513.90619"
+         x="72.91333 85.713333 97.41333 109.45333 121.59333 134.07333 138.93333 149.39333 165.25333 176.95332">Round Two:</tspan></text><text
+       y="533.01898"
+       x="72.91333"
+       id="text108"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan106"
+         y="533.01898"
+         x="72.91333 80.41333 83.76133 91.249329 98.509331 105.25333 110.06533 116.05333">Players:</tspan></text><text
+       y="533.01898"
+       x="122.83293"
+       id="text112"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan110"
+         y="533.01898"
+         x="122.83293 129.79292 132.63693 139.72893 146.03973 152.29173 155.32773 162.41972 169.19972 176.00372 179.03973 186.11972 191.51973 196.91972 203.12373 207.39572 210.43172 216.76653 223.85854 227.95053 235.04253 238.07852 245.17052 251.95053 259.04254 262.07852 264.92252 269.12253 274.52252 277.55853 282.95853 289.70251 296.79453 303.88654 306.73053 309.57452 315.92133 323.01334 326.04932 334.34134 340.47333 344.56534 350.81732 357.59732 363.90811 370.16013 373.19614 379.53214 386.62411 390.71613 397.80814 402.93213 406.36414">Place any Asset card and its supplied Defence cards. </tspan></text><text
+       y="548.35229"
+       x="72.91333"
+       id="text116"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan114"
+         y="548.35229"
+         x="72.91333 75.925331 80.137329 83.173332 89.977333 96.64933 103.39333 106.42933 115.36933 118.21333 123.61333 130.40533 133.44133 137.64014 144.31213 147.34813 154.09213 161.18413 168.27614 172.36813 179.46013 186.55214 192.80412 195.84013 200.03893 206.71092 209.74693 216.83893 219.87492 227.78293 233.84293 239.57893 243.85094 248.77094 258.71893 264.97092 271.75095 274.78693 283.07895 289.21094 293.30173 299.55374 306.33374 312.64572 318.89774 321.93375 328.26974 335.36172 339.45374 346.54575 350.10971 353.14572 359.94971 366.6217 373.36572 376.40173 386.38571 393.1297 398.33652 402.60852 405.64453 409.80853 416.06055 423.15253 425.99652 433.08853 439.40051 445.65253">If you wish to upgrade to a Next-Gen Defence card, you must replace </tspan></text><text
+       y="586.57806"
+       x="72.91333"
+       id="text124"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan122"
+         y="586.57806"
+         x="72.91333 77.209335">• </tspan></text><text
+       y="586.57806"
+       x="80.472397"
+       id="text128"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan126"
+         y="586.57806"
+         x="80.472397 88.380402 94.440399 100.1764 104.44839 109.3684 119.3164 125.5684 132.3484 135.3844 141.71919 148.8112 152.9032 159.99519 165.3952 168.4312 174.7672 181.85919 186.19119 190.52319 197.32719 200.36319 205.894 209.98599 217.078 224.17 227.01399 231.286 234.12999 240.80199 247.58199 254.674 257.51797 260.55399 267.646 273.77798 277.87 284.12198 290.90201 297.2128 303.46478 308.86478 311.90079 318.9928 325.23279 329.39679 336.06879 341.46878 346.5928">Next-Gen cards carry Traditional defences across.</tspan></text><text
+       y="607.58069"
+       x="72.91333"
+       id="text132"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan130"
+         y="607.58069"
+         x="72.91333 77.209335">• </tspan></text><text
+       y="630.47308"
+       x="72.91333"
+       id="text140"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan138"
+         y="630.47308"
+         x="72.91333 81.409332 88.17733 95.545334 98.773331 105.39733 110.17333">Dealer:</tspan></text><text
+       y="630.47308"
+       x="116.71266"
+       id="text144"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"><tspan
+         style="stroke-width:1.33333"
+         id="tspan142"
+         y="630.47308"
+         x="116.71266 123.73266 129.86465 136.83665 143.06346 150.03546 154.18745 157.10345 164.12346 170.67546 177.29945 183.95946 190.93146 193.84746 203.29146 209.95146 216.08345 218.99947 227.17146 233.39825 240.37025 243.09425 249.22626 253.43825 256.35425 261.44226 265.52225 271.65427 278.62625 283.63025">Repeat Round One Dealer steps.</tspan></text><text
+       id="text633"
+       y="563.68567"
+       x="72.91333"
+       style="font-style:italic;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff"
+         y="563.68567"
+         x="72.91333"
+         id="tspan631">an existing card on the field.</tspan></text><text
+       id="text637"
+       y="607.58069"
+       x="80.472397"
+       style="font-style:italic;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff"
+         y="607.58069"
+         x="80.472397"
+         id="tspan635">Defence cards cannot be swapped for a different Defence card.</tspan></text></g><g
+     transform="translate(407.10279,939.76562)"
+     id="g282"><rect
+       x="0"
+       y="0"
+       width="74"
+       height="74"
+       style="fill:#ffffff;stroke:none"
+       id="rect276" /><g
+       style="fill:#000000;stroke:none"
+       id="g280"><path
+         d="m 8,8 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 10,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 H 64 Z M 8,10 h 2 v 2 H 8 Z m 12,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 10,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 12,0 h 2 v 2 H 64 Z M 8,12 h 2 v 2 H 8 Z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 12,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 H 64 Z M 8,14 h 2 v 2 H 8 Z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 12,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 H 64 Z M 8,16 h 2 v 2 H 8 Z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 H 64 Z M 8,18 h 2 v 2 H 8 Z m 12,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 10,0 h 2 v 2 h -2 z m 12,0 h 2 v 2 H 64 Z M 8,20 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m -40,2 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 H 48 Z M 8,24 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 12,0 h 2 v 2 H 64 Z M 8,26 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 H 62 Z M 8,28 h 2 v 2 H 8 Z m 12,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 H 60 Z M 8,30 h 2 v 2 H 8 Z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m -54,2 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 10,0 h 2 v 2 H 64 Z M 8,34 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 H 64 Z M 8,36 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 H 64 Z M 8,38 h 2 v 2 H 8 Z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 H 64 Z M 8,40 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 10,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 12,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 H 58 Z M 8,42 h 2 v 2 H 8 Z m 8,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 10,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 H 62 Z M 8,44 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 10,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 H 64 Z M 8,46 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 H 60 Z M 8,48 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m -38,2 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 H 58 Z M 8,52 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 H 58 Z M 8,54 h 2 v 2 H 8 Z m 12,0 h 2 v 2 h -2 z m 16,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 H 64 Z M 8,56 h 2 v 2 H 8 Z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 H 58 Z M 8,58 h 2 v 2 H 8 Z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 14,0 h 2 v 2 H 64 Z M 8,60 h 2 v 2 H 8 Z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 12,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 6,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 H 64 Z M 8,62 h 2 v 2 H 8 Z m 12,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 20,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 H 64 Z M 8,64 h 2 v 2 H 8 Z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 8,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 12,0 h 2 v 2 h -2 z m 2,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z"
+         id="path278" /></g></g><text
+     id="text397"
+     y="933.50952"
+     x="72.731377"
+     style="font-style:italic;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff"
+       y="933.50952"
+       x="72.731377"
+       id="tspan395">ThreatDeck by DXC Technology is licensed under a Creative </tspan><tspan
+       id="tspan403"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff"
+       y="948.5387"
+       x="72.731377">Commons Attribution-ShareAlike 4.0 International License.</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff"
+       id="tspan399"
+       y="963.56781"
+       x="72.731377">Based on a work at:</tspan><tspan
+       id="tspan405"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff"
+       y="978.59698"
+       x="72.731377">https://github.com/dxc-technology/ThreatDeck</tspan></text></svg>

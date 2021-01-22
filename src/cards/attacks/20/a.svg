@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 312.12534 406.61469"
+   height="406.61469"
+   width="312.12534"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF>
+<rdf:Description rdf:about='' xmlns:dct='http://purl.org/dc/terms/'>
+      <dct:source rdf:resource='https://github.com/dxc-technology/ThreatDeck'>
+        <rdf:Alt>
+          <rdf:li xml:lang='x-default'>Based on a work at &lt;a rel=&#34;dct:source&#34; href=&#34;https://github.com/dxc-technology/ThreatDeck&#34;&gt;&lt;/a&gt;.</rdf:li>
+        </rdf:Alt>
+      </dct:source>
+    </rdf:Description>
+  <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <cc:attributionName>DXC Technology Company</cc:attributionName>
+    <cc:attributionURL rdf:resource="https://dxc.technology"/>
+  </cc:Work>
+  <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+  <requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+  <permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+  <permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+  <permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+  <requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+  <requires rdf:resource="http://creativecommons.org/ns#Notice" />
+  </cc:License>
+</rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath20"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path18"
+         d="M 12.1654,292.795 H 221.929 V 12.1653 H 12.1654 Z" /></clipPath><clipPath
+       id="clipPath42"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path40"
+         d="m 138.874,261.91 h 54.709 v 9.342 h -54.709 z" /></clipPath><clipPath
+       id="clipPath120"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path118"
+         d="M 12.1654,292.795 H 221.929 V 12.1653 H 12.1654 Z" /></clipPath><clipPath
+       id="clipPath132"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path130"
+         d="M 0,0 H 234.094 V 304.961 H 0 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,406.61467)"
+     id="g10"><g
+   id="g12"><g
+     id="g14"><g
+       clip-path="url(#clipPath20)"
+       id="g16"><path
+         id="path22"
+         style="fill:#ed1639;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 12.165,12.165 h 209.764 v 280.63 H 12.165 Z" /><g
+         transform="translate(40.5118,242.788)"
+         id="g24"><path
+           id="path26"
+           style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 H 153.071" /></g><g
+         transform="translate(40.5118,195.3148)"
+         id="g28"><path
+           id="path30"
+           style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 H 153.071" /></g><g
+         transform="translate(40.5118,144.0621)"
+         id="g32"><path
+           id="path34"
+           style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 H 153.071" /></g><g
+         id="g36"><g
+           clip-path="url(#clipPath42)"
+           id="g38"><g
+             transform="translate(155.7813,264.8579)"
+             id="g44"><path
+               id="path46"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,0 h 1.266 c 1.151,0 1.793,0.844 1.793,1.726 0,0.883 -0.647,1.727 -1.793,1.727 L 0,3.453 Z M 1.228,2.753 C 1.865,2.753 2.23,2.254 2.23,1.726 2.23,1.204 1.865,0.7 1.228,0.7 H 0.81 V 2.753 Z M 5.347,0 H 6.296 L 5.179,1.736 6.287,3.453 H 5.356 L 4.671,2.316 3.975,3.453 H 3.031 L 4.143,1.736 3.021,0 h 0.926 l 0.704,1.151 z m 2.69,-0.062 c 0.993,0 1.535,0.594 1.64,1.352 H 8.857 C 8.78,0.93 8.483,0.662 8.056,0.662 c -0.618,0 -0.94,0.494 -0.94,1.064 0,0.571 0.322,1.065 0.94,1.065 0.427,0 0.724,-0.269 0.801,-0.628 h 0.82 C 9.572,2.92 9.03,3.515 8.037,3.515 c -1.108,0 -1.75,-0.844 -1.75,-1.789 0,-0.944 0.642,-1.788 1.75,-1.788 M 9.95,0.456 c 0,-0.274 0.221,-0.499 0.499,-0.499 0.283,0 0.498,0.225 0.498,0.499 0,0.273 -0.215,0.498 -0.498,0.498 -0.278,0 -0.499,-0.225 -0.499,-0.498 m 1.06,2.023 V 1.865 h 0.388 V 0.858 c 0,-0.681 0.326,-0.896 0.916,-0.896 0.216,0 0.379,0.019 0.489,0.038 V 0.628 C 12.707,0.614 12.564,0.599 12.492,0.599 12.29,0.599 12.18,0.667 12.18,0.916 v 0.949 h 0.566 V 2.479 H 12.18 V 3.213 H 11.398 V 2.479 Z m 4.541,-1.726 h -0.743 c -0.082,-0.149 -0.226,-0.254 -0.47,-0.254 -0.355,0 -0.532,0.225 -0.547,0.537 h 1.803 c 0.015,0.115 0.019,0.201 0.019,0.292 0,0.657 -0.455,1.218 -1.275,1.218 -0.844,0 -1.304,-0.589 -1.304,-1.309 0,-0.714 0.465,-1.304 1.313,-1.304 0.677,0 1.079,0.36 1.204,0.82 M 14.328,1.99 c 0.298,0 0.489,-0.187 0.518,-0.479 h -1.05 c 0.029,0.302 0.24,0.479 0.532,0.479 M 18.481,1.525 C 18.385,2.1 17.958,2.546 17.21,2.546 c -0.839,0 -1.347,-0.599 -1.347,-1.309 0,-0.705 0.508,-1.304 1.347,-1.304 0.748,0 1.175,0.446 1.271,1.021 H 17.695 C 17.628,0.738 17.46,0.595 17.215,0.595 c -0.345,0 -0.566,0.292 -0.566,0.642 0,0.35 0.221,0.648 0.566,0.648 0.245,0 0.408,-0.144 0.475,-0.36 z M 18.831,0 h 0.782 v 1.295 c 0,0.35 0.163,0.575 0.479,0.575 0.336,0 0.442,-0.206 0.442,-0.503 V 0 h 0.781 v 1.424 c 0,0.7 -0.307,1.118 -0.935,1.118 -0.364,0 -0.628,-0.164 -0.767,-0.422 v 1.477 h -0.782 z m 2.978,0 h 0.782 v 1.295 c 0,0.35 0.163,0.575 0.479,0.575 0.336,0 0.441,-0.206 0.441,-0.503 V 0 h 0.782 v 1.424 c 0,0.7 -0.307,1.118 -0.935,1.118 -0.369,0 -0.638,-0.164 -0.777,-0.422 v 0.359 h -0.772 z m 4.22,-0.067 c 0.863,0 1.376,0.599 1.376,1.304 0,0.71 -0.513,1.309 -1.376,1.309 -0.854,0 -1.372,-0.599 -1.372,-1.309 0,-0.705 0.518,-1.304 1.372,-1.304 m 0,0.676 c -0.355,0 -0.585,0.283 -0.585,0.628 0,0.345 0.23,0.633 0.585,0.633 0.355,0 0.59,-0.288 0.59,-0.633 0,-0.345 -0.235,-0.628 -0.59,-0.628 M 27.784,0 h 0.782 v 3.597 h -0.782 z m 2.532,-0.067 c 0.863,0 1.376,0.599 1.376,1.304 0,0.71 -0.513,1.309 -1.376,1.309 -0.853,0 -1.371,-0.599 -1.371,-1.309 0,-0.705 0.518,-1.304 1.371,-1.304 m 0,0.676 c -0.355,0 -0.585,0.283 -0.585,0.628 0,0.345 0.23,0.633 0.585,0.633 0.355,0 0.59,-0.288 0.59,-0.633 0,-0.345 -0.235,-0.628 -0.59,-0.628 m 4.383,-0.657 V 2.479 H 33.927 V 2.115 c -0.144,0.263 -0.465,0.427 -0.782,0.427 -0.724,0 -1.203,-0.562 -1.203,-1.305 0,-0.738 0.498,-1.261 1.213,-1.261 0.321,0 0.628,0.158 0.762,0.384 v -0.427 c 0,-0.355 -0.187,-0.552 -0.561,-0.552 -0.331,0 -0.513,0.154 -0.546,0.379 h -0.777 c 0.043,-0.551 0.479,-0.944 1.304,-0.944 0.916,0 1.362,0.412 1.362,1.136 m -1.386,0.657 c -0.345,0 -0.585,0.288 -0.585,0.628 0,0.341 0.24,0.633 0.585,0.633 0.36,0 0.6,-0.292 0.6,-0.633 0,-0.34 -0.24,-0.628 -0.6,-0.628 m 3.357,-0.973 c -0.207,-0.523 -0.466,-0.772 -1.055,-0.772 -0.139,0 -0.25,0.009 -0.341,0.024 v 0.656 c 0.082,-0.014 0.197,-0.028 0.259,-0.028 0.197,0 0.321,0.076 0.422,0.321 l 0.062,0.153 -1.064,2.489 h 0.853 l 0.619,-1.53 0.571,1.525 h 0.805 L 36.67,-0.364 M -7.871,1.723 c 0,-1.684 1.345,-3.018 3.017,-3.018 h 1.313 v 6.043 h -1.313 c -1.672,0 -3.017,-1.334 -3.017,-3.025 m -2.347,0.981 2.125,3.69 h -4.262 z m 0,-1.962 -2.137,-3.69 h 4.262 z m -2.359,0.981 c 0,1.691 -1.345,3.025 -3.018,3.025 h -1.312 v -6.043 h 1.312 c 1.673,0 3.018,1.334 3.018,3.018" /></g></g></g></g></g></g><text
+   id="text50"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,218.6861)"><tspan
+     id="tspan48"
+     y="0"
+     x="0">Attack</tspan></text>
+
+<text
+   id="text54"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,170.461)"><tspan
+     id="tspan52"
+     y="0"
+     x="0">Azure </tspan></text>
+
+<text
+   id="text58"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,153.461)"><tspan
+     id="tspan56"
+     y="0"
+     x="0">Misconfguration</tspan></text>
+
+<text
+   id="text62"
+   style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,185.9129)"><tspan
+     id="tspan60"
+     y="0"
+     x="0">Threat:</tspan></text>
+
+<text
+   id="text66"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,134.6602)"><tspan
+     id="tspan64"
+     y="0"
+     x="0">Traditional Defences</tspan></text>
+
+<text
+   id="text70"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,126.1602)"><tspan
+     id="tspan68"
+     y="0"
+     x="0">• </tspan></text>
+
+<text
+   id="text74"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,46.1811,126.1602)"><tspan
+     id="tspan72"
+     y="0"
+     x="0">System Hardening</tspan></text>
+
+<text
+   id="text78"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,116.2429)"><tspan
+     id="tspan76"
+     y="0"
+     x="0">• </tspan></text>
+
+<text
+   id="text82"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,46.1811,116.2429)"><tspan
+     id="tspan80"
+     y="0"
+     x="0">Penetration Testing</tspan></text>
+
+<text
+   id="text86"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,99.2389)"><tspan
+     id="tspan84"
+     y="0"
+     x="0">Next-Gen Defences</tspan></text>
+
+<text
+   id="text90"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,90.7389)"><tspan
+     id="tspan88"
+     y="0"
+     x="0">• </tspan></text>
+
+<text
+   id="text94"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,46.1811,90.7389)"><tspan
+     id="tspan92"
+     y="0"
+     x="0">Attack Surface Reduction</tspan></text>
+
+<text
+   id="text98"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,80.8216)"><tspan
+     id="tspan96"
+     y="0"
+     x="0">• </tspan></text>
+
+<text
+   id="text102"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,46.1811,80.8216)"><tspan
+     id="tspan100"
+     y="0"
+     x="0">Cloud Access Security Broker (CASB)</tspan></text>
+
+<text
+   id="text106"
+   style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,248.7073)"><tspan
+     id="tspan104"
+     y="0"
+     x="0">Category: </tspan></text>
+
+<text
+   id="text110"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,74.2582,248.7073)"><tspan
+     id="tspan108"
+     y="0"
+     x="0">Cloud</tspan></text>
+
+</g></svg>

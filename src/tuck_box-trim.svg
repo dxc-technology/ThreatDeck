@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg833"
+   xml:space="preserve"
+   width="953.67682"
+   height="815.38031"
+   viewBox="0 0 953.67684 815.38031"><metadata
+     id="metadata839"><rdf:RDF>
+<rdf:Description rdf:about='' xmlns:dct='http://purl.org/dc/terms/'>
+      <dct:source rdf:resource='https://github.com/dxc-technology/ThreatDeck'>
+        <rdf:Alt>
+          <rdf:li xml:lang='x-default'>Based on a work at &lt;a rel=&#34;dct:source&#34; href=&#34;https://github.com/dxc-technology/ThreatDeck&#34;&gt;&lt;/a&gt;.</rdf:li>
+        </rdf:Alt>
+      </dct:source>
+    </rdf:Description>
+  <cc:Work
+   rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <cc:license
+   rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+    <cc:attributionName>DXC Technology Company</cc:attributionName>
+    <cc:attributionURL
+   rdf:resource="https://dxc.technology" />
+  <dc:title></dc:title></cc:Work>
+  
+<cc:License
+   rdf:about="http://creativecommons.org/licenses/by-sa/4.0/"><cc:permits
+     rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+     rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+     rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+     rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:permits
+     rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /><cc:requires
+     rdf:resource="http://creativecommons.org/ns#ShareAlike" /></cc:License></rdf:RDF></metadata><defs
+     id="defs837" /><g
+     transform="translate(-59.965985,-24.876784)"
+     id="g2134"><path
+       id="path955"
+       style="fill:none;stroke:#ec008c;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 468.11692,263.42601 c 0,0 5e-5,-114.43537 4e-5,-171.652991 -4e-5,-26.506601 -21.49337,-47.999934 -48.27337,-48.000001 l -148.76666,-6.7e-5 c -26.69333,-1.2e-5 -48.36,21.253333 -48.6,47.559931 3e-5,57.364378 -1e-5,114.728748 0,172.093128 M 468.117,119.74601 H 429.71692 M 222.477,119.773 h 38.39993 m 207.28039,625.97234 h -38.4 m -207.28039,-143.652 7e-5,171.83986 c 0.32,26.24 22.0666,47.42533 48.8266,47.42533 l 149.17372,4e-4 c 26.36,-0.17333 47.68,-21.59867 47.68,-48.0002 0,-57.08846 -3.2e-4,-171.26539 -3.2e-4,-171.26539 m -245.68,143.652 h 38.39993 m 207.28007,-95.652 h 95.61352 c 26.50667,0 48,-21.49333 48,-48 H 994.74504 V 263.42535 c 0,0 -156.93466,3.9e-4 -235.40199,6.6e-4 0,29.33333 -48,29.33333 -48,0 h -98.7198 c 2e-4,-26.50667 -21.49313,-48 -47.9998,-48 H 468.42412 M 222.47746,650.09334 h -95.61373 c -26.50667,0 -47.999999,-21.49333 -47.999999,-48 V 263.42568 c 0,-26.50634 21.493329,-47.99967 47.999999,-47.99967 H 222.477" /></g></svg>

@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 554.01599 1079.3707"
+   height="1079.3707"
+   width="554.01599"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF>
+<rdf:Description rdf:about='' xmlns:dct='http://purl.org/dc/terms/'>
+      <dct:source rdf:resource='https://github.com/dxc-technology/ThreatDeck'>
+        <rdf:Alt>
+          <rdf:li xml:lang='x-default'>Based on a work at &lt;a rel=&#34;dct:source&#34; href=&#34;https://github.com/dxc-technology/ThreatDeck&#34;&gt;&lt;/a&gt;.</rdf:li>
+        </rdf:Alt>
+      </dct:source>
+    </rdf:Description>
+  <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <cc:attributionName>DXC Technology Company</cc:attributionName>
+    <cc:attributionURL rdf:resource="https://dxc.technology"/>
+  </cc:Work>
+  <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+  <requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+  <permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+  <permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+  <permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+  <requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+  <requires rdf:resource="http://creativecommons.org/ns#Notice" />
+  </cc:License>
+</rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath242"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path240"
+         d="m 207.756,728.704 h 153.071 v 26.139 H 207.756 Z" /></clipPath><clipPath
+       id="clipPath266"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path264"
+         d="M 0,0 H 415.512 V 809.528 H 0 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1079.3707)"
+     id="g10"><g
+   transform="translate(54.6851,461.5453)"
+   id="g12"><path
+     id="path14"
+     style="fill:none;stroke:#231f20;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0,0 H 306.142" /></g><g
+   transform="translate(54.6851,268.6949)"
+   id="g16"><path
+     id="path18"
+     style="fill:none;stroke:#231f20;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0,0 H 306.142" /></g><text
+   id="text22"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,595.4685)"><tspan
+     id="tspan20"
+     y="0"
+     x="0 9.375 13.56 22.92 31.995001 35.639999 48.84 57.793499 67.153503 75.613503 83.098503">Play Modes:</tspan></text>
+
+<text
+   id="text26"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,581.1339)"><tspan
+     id="tspan24"
+     y="0"
+     x="0 6.3579998 10.659 17.523001 24.200001 31.063999 37.928001 42.272999 49.137001 51.810001 61.490002 68.056999 74.920998 81.102997 84.535004">Standard Mode: </tspan></text>
+
+<text
+   id="text30"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,141.8923,581.1339)"><tspan
+     id="tspan28"
+     y="0"
+     x="0 5.013 10.071 13.5 17.847 19.98 24.146999 28.836 31.113001 36.171001 41.1381 44.342098 46.475101 48.608101 50.885101 54.0891 59.183102 63.872101 66.149101 70.838097 75.923103 81.242104">Survive until the end.</tspan></text>
+
+<text
+   id="text34"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,563.9645)"><tspan
+     id="tspan32"
+     y="0"
+     x="0 7.7220001 14.586 18.931 25.795 28.468 38.147999 44.715 51.578999 57.761002 61.193001">Hard Mode: </tspan></text>
+
+<text
+   id="text38"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,118.5504,563.9645)"><tspan
+     id="tspan36"
+     y="0"
+     x="0 6.9390001 11.943 16.910999 20.115 22.247999 27.333 32.390999 37.080002 39.356998 44.675999 46.808998 52.127998 57.230999 59.363998 64.448997 69.767998 72.044998 77.192101 80.396103 83.546097 88.865097 93.545097 98.090103 100.3671 105.1182 110.4372 113.5062 118.8252 122.8752 125.1522 130.21021 135.17821 138.3822 140.5152 142.64819 144.9252 149.9292 154.9863 157.11929 162.22231 164.4993 169.5033 174.5883 179.2773 181.55431 186.87331 189.0063 194.3253 199.4283 204.11729 206.7543 209.42731">Continue playing Attack cards until only one player, </tspan></text>
+
+<text
+   id="text42"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,552.4645)"><tspan
+     id="tspan40"
+     y="0"
+     x="0 5.0040002 8.2530003 10.53 15.615 20.618999 25.704 30.212999 32.886002 35.162998 38.285099 42.974098 50.462101 55.781101 57.914101 62.9991 65.573097">or none, remain. </tspan></text>
+
+<text
+   id="text46"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,122.5351,552.4645)"><tspan
+     id="tspan44"
+     y="0"
+     x="0 2.2590001 5.4180002 7.6950002 10.899 15.993 20.681999 23.805 28.493999 30.771 36.09 39.212101 43.9011 46.178101 49.382099 55.898102 60.9021 63.1791 68.4981 70.631104 75.950104 81.053101 85.742104 88.865097 92.9151 95.192101 98.314201 103.0032 110.4912 115.8102 117.9432 123.0282 125.1612 130.2462 135.5652 137.84219 139.9752 145.0602 147.3372 150.5412 155.63519 160.3242 162.6012 164.73421 170.05321 173.9583 177.16229 179.4393 182.5623 187.5663 192.6243 197.7093 203.02831 205.70129">If there are two players remaining in the last round, </tspan></text>
+
+<text
+   id="text50"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,540.9645)"><tspan
+     id="tspan48"
+     y="0"
+     x="0 5.3189998 10.404 15.723 18 21.204 26.298 30.987 33.264 38.556 41.678101 45.584099 48.788101 51.065102 56.384102 58.517101 63.836102 68.939102 73.628098 76.877098 79.154099 81.287102 85.337097 87.614098 92.303101 94.436096 96.569099 104.0571 106.1901 111.2751 116.5941 119.7432 124.5042 129.8232 132.1002 137.4192 142.5222 144.79919 148.0032 153.0972 157.78619 160.0632 165.14819 169.69231 173.99429 177.1983 179.4753 185.9913 191.3103 195.47639 200.16541 202.4424 207.3564 210.5154 212.7924 217.9404 221.14439 224.2944 229.6134 234.2934 238.83839 241.1154 245.8665 251.1855 254.2545 259.57349 263.4165 266.08951">and the frst player is eliminated by the next wave of Attack cards, </tspan></text>
+
+<text
+   id="text54"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,529.4645)"><tspan
+     id="tspan52"
+     y="0"
+     x="0 3.204 8.2980003 12.987 15.264 19.313999 24.056999 28.7901 33.794102 38.879101 44.198101 46.475101 51.794102 53.927101 59.246101 64.349098 69.038101 72.287102 74.564102 82.052101 87.1101 91.015198 94.2192 96.496201 100.4022 103.6062 105.7392 107.8722 110.0052 112.2822 115.4052 120.1482 124.8822 129.5712 131.70419 135.8712 140.5602 142.8372 146.0412 151.13519 155.8242 157.9572 161.20621 163.4832 168.63029 171.8343 174.9843 180.3033 184.98331 189.52831 191.8053 196.5564 201.8754 204.9444 210.2634 214.1064 216.6804 218.9574 221.2164 224.3754 226.6524 229.8564 234.95039 239.6394 244.7424 247.01939 251.77049 257.08951 262.1745 264.45151 269.77051 274.36951 277.43851 282.1275 287.21249 292.53149">the second player must still receive their Attack cards. If they can defend </tspan></text>
+
+<text
+   id="text58"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,517.9645)"><tspan
+     id="tspan56"
+     y="0"
+     x="0 3.204 8.2980003 12.987 15.12 18.368999 20.646 25.955999 30.006001 34.056 38.709 41.858101 45.701099 48.3741 50.6511 53.855099 58.9491 63.6381 68.741096 71.018097 77.723099 79.856102 84.941101 87.614098 89.891098 92.024101 95.183098 97.460098 100.6641 105.7581 110.4471 115.5501 117.8271 122.5782 127.8972 132.98219 138.0672 143.0343 146.2383 148.9113 151.18829 154.3923 159.4863 164.17529 166.4523 171.7713 176.5323 181.8513 183.9843 188.67329 191.9223 194.1993 200.9043 203.03729 208.1223 211.9644">their Assets, they win; if they cannot, the dealer wins.</tspan></text>
+
+<text
+   id="text62"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,502.2953)"><tspan
+     id="tspan60"
+     y="0"
+     x="0 6.875 9.9440002 16.808001 23.462999 29.645 34.056 39.544998 42.977001 45.650002 52.415001 56.891998">Players: 2-5</tspan></text>
+
+<text
+   id="text66"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,490.7953)"><tspan
+     id="tspan64"
+     y="0"
+     x="0 5.9310002 10.899 14.049 18.738001 21.014999 24.219 29.313 34.632 37.835999 40.112999 45.216 50.220001 55.278 57.555 64.260002 66.392998 68.526001 70.658997 72.935997 78.021004 82.7631 87.523201 92.842201 95.119202 98.5392 100.8162 105.1182 107.3952 113.6142 118.3752 123.6942 125.8272 130.5162 133.7652 136.04221 138.6972 143.7012 148.78619 153.4752 155.7522 160.6653 163.8243 166.1013 169.3053 174.39931 179.0883 181.3653 186.6843 188.81731 194.13631 199.2393 203.9283 207.0504 211.1004 213.3774 218.12939 223.44839 228.5334 230.81039 233.9604 239.2794 243.3924 248.08141 250.3584 255.3624 260.44739 262.7244 265.92841 271.0224 273.1554 277.20541 279.48239 282.60541 287.60941 289.7424 294.4314">Note that you will need 1 x Dealer (one of the players can take on this role </tspan></text>
+
+<text
+   id="text70"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,479.2953)"><tspan
+     id="tspan68"
+     y="0"
+     x="0 2.1329999 5.2919998 7.5689998 12.672 17.676001 22.733999 25.011 30.33 35.334 40.0131 42.1101 45.314098 47.591099 52.685101 58.004101 62.171101 66.8601 69.1371 74.4561 79.5411 81.8181 86.362198 90.6642 93.868202 96.937202 102.2562 104.5332 109.8522 111.9852 117.3042 122.4072 127.0962 130.27319 133.13519">if you don’t have an extra player).</tspan></text>
+
+<text
+   id="text74"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,444.2874)"><tspan
+     id="tspan72"
+     y="0"
+     x="0 12.585 21.945 35.264999 43.695 47.34 56.715 62.788502 71.218498 80.578499">Game Prep:</tspan></text>
+
+<text
+   id="text78"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,429.9528)"><tspan
+     id="tspan76"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text82"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,429.9528)"><tspan
+     id="tspan80"
+     y="0"
+     x="0 4.8330002 10.152 14.832 19.926001 22.202999 27.521999 29.655001 34.973999 40.077 44.765999 48.014999 50.292 55.376999 60.119099 64.880096 70.199097 74.2491 76.5261 81.8451 86.930099 89.2071 91.340103 96.425102 101.7441 103.8771 108.2241 110.3571 115.6761 120.7341 126.0531 128.1861 130.4631 135.1521 140.24609 143.36729 148.1283 153.4473 156.65131 162.8703 167.6133 172.2933 176.8383 179.1153 182.2653 187.2693 189.5463 194.8653 196.99831 202.31731 207.4203 209.99429 212.2713 214.5303 219.4353 222.00929 224.2863 226.5453 229.7043 231.98129 235.1853 240.2793 244.96831 248.08949 252.7785 255.0555 260.37451 263.4975 268.18649">Each player needs an individual ThreatDeck to play. IE: If there are </tspan></text>
+
+<text
+   id="text86"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,418.4528)"><tspan
+     id="tspan84"
+     y="0"
+     x="0 5.1929998 7.4699998 12.789 14.922 20.240999 25.344 30.033001 33.155102 36.999001 39.672001 41.949001 47.051998 52.056 57.113998 59.390999 64.475998 69.218102 73.979103 79.298103 81.575104 86.768097 91.070099 93.347099 98.036102 103.1301 106.2522 111.0132 116.3322 119.5362 125.7552 130.4982 135.17821 139.5882">5 players, you need 5x ThreatDeck.</tspan></text>
+
+<text
+   id="text90"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,402.7008)"><tspan
+     id="tspan88"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text94"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,402.7008)"><tspan
+     id="tspan92"
+     y="0"
+     x="0 4.8330002 10.152 14.832 19.926001 22.202999 27.521999 29.655001 34.973999 40.077 44.765999 48.014999 50.292 54.341999 59.030998 61.164001 65.906097 70.550102 73.700104 77.750099 80.0271 85.031097 90.116096 94.805099 97.0821 101.1321 105.7842 108.9882 111.2652 116.1792 119.3382 121.6152 126.8082 131.1102 133.38721 138.6972 142.74719 146.7972 151.4502 154.65421 156.9312 161.6823 167.0013 170.0703 175.3893 179.4393 181.71629 187.03529 192.1203 197.4393 199.71629 205.03529 207.3123 212.04539 217.04939 224.5374 229.8564 231.9894 236.6424 239.7924 244.4814 246.75841 250.8084 255.4614 258.66541">Each player selects one set of 5x Asset cards and a complete set </tspan></text>
+
+<text
+   id="text98"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,391.2008)"><tspan
+     id="tspan96"
+     y="0"
+     x="0 4.914 8.073 10.35 13.77 18.891001 21.167999 25.469999 27.747 33.966 38.564098 41.633099 46.322102 51.407101 56.141102 60.830101 63.107101 67.8591 73.178101 76.247101 81.566101 85.409103 87.983101 90.260101 95.308197 99.961197 103.1652 105.4422 110.7612 114.8112 116.9442 122.2632 126.9522 129.2292 132.4332 137.52721 142.2162 144.49319 147.6153 152.30431 156.2112 159.41521 161.6922 166.6053 169.7643 172.04131 175.2453 180.33929 185.02831 187.3053 192.6153 196.6653 200.7153 205.3683 208.5723 210.8493 215.6004 220.9194 223.9884 229.3074 233.15041 235.7244 238.0014 242.6904 247.78439 252.4734 257.57639 259.85339 266.55841 268.69141 270.8244 272.9574">of 12 x Defence cards. Set aside the rest of the Asset cards. They will </tspan></text>
+
+<text
+   id="text102"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,379.7008)"><tspan
+     id="tspan100"
+     y="0"
+     x="0 5.085 10.053 13.257 15.534 20.853001 25.542 27.819 32.876999 36.926998 41.687099 47.0061">not be used.</tspan></text>
+
+<text
+   id="text106"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,363.9488)"><tspan
+     id="tspan104"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text110"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,363.9488)"><tspan
+     id="tspan108"
+     y="0"
+     x="0 5.013 10.107 15.165 23.813999 28.503 30.780001 35.928001 39.132 42.281101 47.600101 52.280102 56.8251 59.1021 64.421097 69.506104 74.825104 77.102097 84.0411 89.135101 94.454102 99.539101 104.2722 108.9612 111.2382 115.9902 121.3092 124.3782 129.6972 133.74719 136.0242 139.17329 144.2493 149.5683 154.2213 157.42529 162.5193 167.2083 170.45731 172.7343 178.0533 183.13831 188.45731 190.7343 196.0533 198.18629 203.50529 208.2384 212.9274 215.20441 217.3374 222.42239 224.6994 229.7034 234.78841 239.4774 241.75439 247.07339 251.81551 256.49551 260.90549">Shufe Attack and Chance cards together and place in one deck.</tspan></text>
+
+<text
+   id="text114"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,348.1968)"><tspan
+     id="tspan112"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text118"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,348.1968)"><tspan
+     id="tspan116"
+     y="0"
+     x="0 6.2189999 10.98 16.299 18.431999 23.121 26.370001 28.646999 33.3801 38.384102 43.3521 46.556099 49.6791 54.683102 56.816101 60.8661 63.143101 68.2911 71.495102 74.645103 79.964104 84.644096 89.189102 91.466103 96.785103 101.8701 107.1891 109.4661 116.4051 121.4991 126.8181 131.90311 136.6362 141.3252 143.6022 148.3533 153.6723 156.7413 162.0603 166.11031 168.3873 173.7063 178.7643 181.96831 184.2453 191.73331 196.79131 200.6973 203.90131 206.1783 211.4973 213.63029 218.9493 224.05231 226.3293 231.6483 233.7813 235.91431 240.9993 246.3183 248.59531 255.30029 257.43329 260.6373 265.73129">Dealer controls Attack and Chance cards but must play blind with </tspan></text>
+
+<text
+   id="text122"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,336.6968)"><tspan
+     id="tspan120"
+     y="0"
+     x="0 5.3189998 10.062 14.742 19.287001 21.563999 24.632999 29.952 34.685101 39.446098 44.765099 49.580101 56.285099 61.370098">deck facedown.</tspan></text>
+
+<text
+   id="text126"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,320.9449)"><tspan
+     id="tspan124"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text130"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,320.9449)"><tspan
+     id="tspan128"
+     y="0"
+     x="0 4.8330002 10.152 14.832 19.926001 22.202999 25.326 30.33 35.388 40.473 45.792 48.069 53.388 58.148102 63.467098 65.600098 69.650101 71.927101 77.219101 80.342102 84.2481 87.452103 89.729103 92.879097 97.883102 100.1601 103.3641 108.4581 113.1471 115.4241 120.5091 125.0532 129.35519 132.5592 134.8362 140.1552 142.28819 147.60719 152.71021 157.3992 160.64819 162.9252 165.0582 170.1432 172.4202 177.7392 180.0162 184.6962 186.82919 191.88631 196.5663 201.1113 207.8163 209.9493 213.9993 218.68829 220.9653 224.0334 229.3524 233.4024 238.4964 240.62939 245.63341 250.7184">Each round deals frst to the next player in a clockwise fashion </tspan></text>
+
+<text
+   id="text134"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,309.4449)"><tspan
+     id="tspan132"
+     y="0"
+     x="0 2.862 4.9949999 7.1279998 11.241 15.93 18.207001 22.257 27.351 29.483999 32.778 35.981998 38.115002 43.200001 48.519001 50.796001 56.115002 58.248001 60.381001 65.466003 70.785004 74.834999 77.112 79.245003 84.330002 86.607002 91.827003 96.831001 100.9422 105.6312 108.8082 111.6702 114.2442 116.5212 118.7802 121.9392 124.2162 129.4362 131.5692 136.8882 141.9912 146.68021 149.9292 152.20621 159.3792 164.4642 169.1532 171.43021 174.55231 179.2953 184.0293 188.71831 190.8513 195.0183 199.70731 203.75729 206.0343 209.2383 214.33231 219.0213 221.29829 226.5903 229.7124 233.61839 236.8224 239.0994 244.4184 247.62241 250.7724 256.0914 260.77139 265.31641 267.59341 269.72641 274.8114">(like shifting blinds in Poker). If Player One receives the frst attack in </tspan></text>
+
+<text
+   id="text138"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,297.9449)"><tspan
+     id="tspan136"
+     y="0"
+     x="0 5.355 10.359 15.417 20.502001 25.820999 28.098 35.271 40.355999 44.865002 47.537998 49.814999 55.035 57.167999 62.487 67.589996 72.278999 75.528 77.805 81.9711 88.487099 93.491096 95.768097 102.4731 104.6061 106.7391 108.8721 111.1491 114.2712 119.0151 123.7482 128.43719 130.57021 134.7372 139.42619 141.7032 144.9072 150.00121 154.6902 156.96719 162.2592 165.3822 169.28819 172.4922 174.7692 180.0882 183.29221 186.4413 191.7603 196.44031 200.98531 203.2623 205.39529 210.4803 212.75729 218.1123 223.1163 228.1743 233.25929 238.57829 240.8553 245.02139 251.5374 256.54141 258.81839 265.52341 270.6174 272.7504 274.88339 279.57239">Round One, Player Two will receive the frst attack in Round Two while </tspan></text>
+
+<text
+   id="text142"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,286.4449)"><tspan
+     id="tspan140"
+     y="0"
+     x="0 5.2199998 7.3530002 12.672 17.775 22.464001 25.712999 27.99 35.162998 40.248001 44.937 47.214001 50.336102 55.079102 59.813099 64.502098 66.635101 70.802101 75.491096 79.5411 81.8181 85.022102 90.116096 94.805099 97.0821 99.215103 104.5341 108.4392 111.6432 113.9202 119.2392 122.4432 125.5932 130.9122 135.59219 140.13721 142.4142 144.5472 149.6322 151.90919 157.26331 162.2673 167.3253 172.41029 177.72929 180.0063 184.17329 190.6893 195.51331">Player One receives the last attack in Round Two.</tspan></text>
+
+<text
+   id="text146"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,251.437)"><tspan
+     id="tspan144"
+     y="0"
+     x="0 9.5550003 18.584999 22.77 31.23 38.715">Rules:</tspan></text>
+
+<text
+   id="text150"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,237.1024)"><tspan
+     id="tspan148"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text154"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,237.1024)"><tspan
+     id="tspan152"
+     y="0"
+     x="0 2.2590001 7.3439999 9.6210003 14.382 19.701 24.381001 29.475 31.752001 34.8741 39.878101 44.9361 50.021099 55.340099 58.0131 60.2901 65.6091 67.742104 69.875099 72.1521 77.4711 79.604103 84.923103 90.0261 94.715103 97.837196 101.8872 104.1642 110.8692 113.0022 115.1352 117.2682 119.5452 124.8642 126.9972 132.31619 137.4192 139.6962 145.0152 150.1002 152.3772 157.68719 161.7372 165.7872 170.4393 173.6433 175.9203 180.6723 185.9913 189.0594 194.3784 196.6554 199.81441 202.93739 207.94141 215.4294 217.70641 220.9104 226.00439 230.69341 232.8264 236.07539 238.3524 242.4024 247.0554 250.2594">In each round, all players will play an Asset card from their set </tspan></text>
+
+<text
+   id="text158"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,225.6024)"><tspan
+     id="tspan156"
+     y="0"
+     x="0 2.727 9.6660004 14.67 17.919001 23.238001 28.242001 31.311001 36.630001 39.779099 44.468102 46.745098 52.055099 56.105099 60.155102 64.808098 67.958099 72.008102 74.285103 79.604103 82.727097 87.4161 89.6931 95.0121 97.145103 103.6611 108.9801 114.0831 118.1331 120.4101 125.7291 127.8621 133.18111 138.2841 143.0442 148.3632 150.6402 152.77319 157.8582 160.13519 165.4893 170.4933 175.5513 180.63631 185.95531 188.2323 195.4053 200.4903 204.97231 207.8343">(Corporate Assets are always played in Round One).</tspan></text>
+
+<text
+   id="text162"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,209.8504)"><tspan
+     id="tspan160"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text166"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,209.8504)"><tspan
+     id="tspan164"
+     y="0"
+     x="0 6.2189999 10.98 16.299 18.431999 23.121 26.370001 28.646999 35.352001 37.485001 39.618 41.750999 44.028 47.231998 52.326 57.014999 62.099998 64.376999 69.695999 71.829002 77.148003 82.250999 84.528 89.531998 94.616997 99.306 101.583 106.7292 109.9332 113.0832 118.4022 123.0822 127.6272 129.90421 134.6562 139.9752 143.0433 148.3623 150.6393 153.2943 157.83929 161.97031 166.7043 171.3933 176.6763 179.88029 182.1573 184.2903 189.37531 191.6523 197.00639 202.01041 207.06841 212.1534 217.4724 219.7494 224.4384 229.53239 232.6554 237.39841 242.0874 244.3644 249.6834 254.7684 260.0874 262.36441 267.1524 269.2854 273.45239 277.93439 280.79639 283.37039">Dealer will then play one Attack card (except in Round Three and Five). </tspan></text>
+
+<text
+   id="text170"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,194.0984)"><tspan
+     id="tspan168"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text174"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,194.0984)"><tspan
+     id="tspan172"
+     y="0"
+     x="0 5.3099999 7.4429998 9.5760002 11.853 17.000999 20.205 23.355 28.674 33.354 37.592098 41.642101 43.919102 49.238098 51.371101 56.690102 61.793098 66.5541 71.8731 74.150101 79.469101 84.572098 86.849098 93.0681 97.828201 103.1472 105.2802 109.9692 113.2182 115.4952 122.9832 128.0412 131.9472 135.1512 137.42821 144.9162 150.2352 153.38429 158.0643 163.15829 165.4353 168.6393 173.73331 178.4223 180.6993 185.9193 188.05231 193.37131 198.4743 203.1633 206.3394 208.25639 212.3064 214.5834 219.8934 223.94341 227.99339 232.64639 235.8504 238.1274 242.87849 248.19749 251.3475 256.10849 261.42749 266.43149 269.68051 271.81351 276.5025 280.55249">All Attacks played by Dealer must match the Player’s Asset categories </tspan></text>
+
+<text
+   id="text178"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,182.5984)"><tspan
+     id="tspan176"
+     y="0"
+     x="0 2.727 9.6660004 14.67 17.919001 23.238001 28.242001 31.311001 36.630001 39.779099 44.289001 46.962002 49.238998 57.329102 62.018101 67.202103 69.875099 72.1521 74.411102 78.740097 82.709099 85.382103 87.659103 92.897102 97.955101 102.0051 104.1381 109.2231 113.9121 117.9621 122.0121 124.2891 129.59911 134.91811 140.23711 142.3701 144.5031 149.2542 154.5732 157.77721 159.9102 164.9142 169.99921 174.04919 176.3262 181.6452 186.73019 192.04919 194.3262 201.2652 203.39819 208.40221 213.46021 218.77921 221.6412 224.21519 226.4922 228.75121 231.9102 234.18719 237.3912 242.4852 247.17419 252.27721 254.5542 259.8732 264.8772 267.15421 272.2392 277.20721 280.41119 283.0842">(Corporate, Web, IoT, Business Applications and Cloud). If they do not, </tspan></text>
+
+<text
+   id="text182"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,171.0984)"><tspan
+     id="tspan180"
+     y="0"
+     x="0 4.1129999 8.8559999 13.545 18.864 21.141001 26.459999 31.221001 36.540001 38.673 40.806 45.890999 51.209999 53.487 58.544998 63.5121 66.716103 68.849098 70.982101 73.259102 78.578102 83.897102 89.216103 92.338203 97.342201 102.6612 105.9102 108.0432 113.3622 116.5122 121.2012 123.4782 128.23019 133.54919 136.61819 141.93719 144.2142 146.3472 150.3972 152.67419 157.99319 161.06129 166.3353 173.0403 178.12531">keep dealing until appropriate card is drawn.</tspan></text>
+
+<text
+   id="text186"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,155.3464)"><tspan
+     id="tspan184"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text190"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,155.3464)"><tspan
+     id="tspan188"
+     y="0"
+     x="0 2.2590001 5.4180002 7.6950002 10.899 15.993 20.681999 22.959 28.179001 30.312 35.631001 40.734001 45.423 48.672001 50.949001 56.042999 61.362 65.412003 67.689003 70.892998 75.987 80.676003 82.953003 86.202003 88.334999 93.653999 98.629204 101.8332 104.1102 110.3292 114.9282 117.9972 122.6862 127.7712 132.5052 137.1942 139.47121 144.22231 149.54131 152.61031 157.92931 161.77229 164.4453 166.72231 169.9263 175.02029 179.7093 184.8123 187.08929 193.7943 195.92731 201.0123 203.5863 205.8633 208.1223 211.2813 213.5583 216.7623 221.85629 226.5453 231.6483 233.92529 239.24429 244.24831 246.5253 251.61031 256.57651 259.78049 262.45349">If the Player has the right Defence cards, they win. If they do not, </tspan></text>
+
+<text
+   id="text194"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,143.8464)"><tspan
+     id="tspan192"
+     y="0"
+     x="0 3.204 8.2980003 12.987 15.264 21.483 26.243999 31.563 33.695999 38.384998 41.633999 43.910999 50.616001 52.749001 57.834 61.883999 64.161003 69.480003 74.565002 79.884003 82.161003 85.364998 90.459 95.148003 97.425003 102.645 104.778 110.097 115.2 119.889 123.138 125.415 128.53619 133.27921 138.0123 142.70129 144.8343 149.0013 153.69031 157.7403 160.0173 165.0213 170.10629 174.7953 177.0723 181.9953 185.1993 188.4483 190.5813 194.69431 199.20329">the Dealer wins and the Player receives one Strike.</tspan></text>
+
+<text
+   id="text198"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,128.0945)"><tspan
+     id="tspan196"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text202"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,128.0945)"><tspan
+     id="tspan200"
+     y="0"
+     x="0 5.355 10.098 14.832 19.521 21.653999 25.820999 30.51 32.786999 35.991001 41.084999 44.2071 48.9501 53.639099 55.9161 60.8391 64.043098 67.292099 69.425102 73.538101 78.227097 82.2771 84.5541 89.8731 94.958099 100.2771 102.5541 107.6571 112.6611 117.7191 119.9961 122.1291 127.1331 131.18311 135.69119">Receive three Strikes and you lose.</tspan></text>
+
+<text
+   id="text206"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,112.3425)"><tspan
+     id="tspan204"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text210"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,112.3425)"><tspan
+     id="tspan208"
+     y="0"
+     x="0 5.355 10.044 15.363 20.124001 25.443001 28.646999 30.924 36.243 38.375999 43.695 48.798 51.075001 54.143101 59.147099 62.396099 64.673103 69.965103 74.132103 78.821098 81.098099 84.2211 89.225098 94.283096 99.368103 104.6871 108.7371 111.0141 116.0721 121.0392 124.2432 126.3762 128.5092 130.78619 135.79021 140.8752 145.56419 147.8412 153.0612 155.1942 160.5132 165.6162 170.30521 173.5542 175.83121 178.95329 183.6423 191.13029 196.4493 198.58231 203.6673 207.5103 210.1833 212.4603 217.46429 220.7133 222.9903 228.3093 230.44231 232.5753 234.85229 240.1713 243.2934 247.98241 250.2594 254.94839 257.08139 259.21439 266.70239 268.83539 273.92041 279.23941 282.38849 287.14951 292.46851">Repeat play for fve rounds until one Player remains, or all are eliminated.</tspan></text>
+
+<text
+   id="text214"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,96.5905)"><tspan
+     id="tspan212"
+     y="0"
+     x="0 3.2219999">• </tspan></text>
+
+<text
+   id="text218"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,96.5905)"><tspan
+     id="tspan216"
+     y="0"
+     x="0 5.355 10.359 15.417 20.502001 25.820999 28.098 32.786999 37.881001 41.003101 45.747002 50.436001 53.009998 55.286999 61.506001 66.510002 71.568001 76.887001 79.019997 83.709 85.986 91.133102 94.337097 97.487099 102.8061 107.4861 112.0311 114.6051 116.8821 122.1021 124.2351 129.55409 134.6571 139.3461 142.4682 146.5182 148.7952 151.9182 156.60719 161.92619 166.68719 172.0062 175.21021 177.4872 182.5722 187.5762 190.8252 198.3132 203.6322 205.7652 208.04221 211.9473 215.09731 219.7863 225.1053 228.9474 231.62041 233.8974 239.2164 244.2744 247.47839 249.7554 252.9594 258.05341 262.7424 265.01941 271.2384 275.99939 281.31839 283.45139 288.14041 291.3894">Round Three: Double Attack: Players repeat normal steps, but the Dealer </tspan></text>
+
+<text
+   id="text222"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,85.0905)"><tspan
+     id="tspan220"
+     y="0"
+     x="0 6.7049999 8.8380003 10.971 13.104 15.381 20.700001 23.903999 27.053101 32.372101 37.052101 41.597099 43.8741 48.635101 53.954102 58.634102 63.7281 66.005096 71.324097 73.4571 78.7761 83.879097 88.5681 91.817101 94.094101 97.298103 104.0031 106.1361 110.8692 115.3782 118.0512 120.3282 122.4612 127.5462 131.45219 134.6013 139.3623 144.6813 150.00031 152.2773 157.1913 160.3503 162.6273 167.6313 172.71629 177.4503 181.9593">will attack each player twice, instead of once.</tspan></text>
+
+<text
+   id="text226"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.6851,69.3386)"><tspan
+     id="tspan224"
+     y="0"
+     x="0 3.132">• </tspan></text>
+
+<text
+   id="text230"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,69.3386)"><tspan
+     id="tspan228"
+     y="0"
+     x="0 5.2649999 10.179 15.147 20.142 25.371 27.558001 32.256001 34.299 38.375999 42.974998 45.459 47.646 52.344002 54.387001 59.382 64.611 66.653999 69.138 71.324997 76.455002 78.498001 83.726997 88.739998 93.338997 96.372002 100.332 102.519 105.552 110.151 115.38 120.0501 125.2791 128.3931 130.58009 135.5751 140.48911 143.6481 151.0461 156.2751 158.3181 160.5051 164.32111 167.3811 171.9801 177.20911 180.9621 183.5451 185.7321 190.96111 195.92909 199.04311 201.2301 204.3441 209.3481 213.9471 216.13409 222.26311 226.9341 232.1631 234.2061 238.8051 241.9641 244.15109 250.7661 252.8091 254.8521 256.89511 259.08209 264.3111 267.42511 270.48419 275.7132 280.30319 284.84821">Round Five: Final: Players repeat normal steps, but the Dealer will attack </tspan></text>
+
+<text
+   id="text234"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,60.3544,57.8386)"><tspan
+     id="tspan232"
+     y="0"
+     x="0 4.671 9.8999996 14.49 19.493999 21.681 26.91 28.952999 34.181999 39.195 43.793999 46.952999 49.139999 52.254002 57.257999 60.291 64.944 69.542999 71.730003 74.844002 76.887001 84.285004 88.884003 92.637001 95.220001 97.406998 99.449997 104.445 108.2619 111.321 115.992 121.221 126.45 128.63699 133.461 136.53 138.717 143.631 148.62601 153.27 157.689 160.173 162.36 170.892 175.896 180.864 185.29111 189.3681 193.9671 197.1261 199.3131 202.3461 206.9451 214.34309 219.5721 221.6151 226.61011 230.3631 232.94611 235.1331 241.74809 243.79111 248.7861 252.53909">each player three times, instead of once. Whoever remains, wins.</tspan></text>
+
+<g
+   id="g236"><g
+     clip-path="url(#clipPath242)"
+     id="g238"><g
+       transform="translate(255.0614,736.9521)"
+       id="g244"><path
+         id="path246"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 0,0 H 3.542 C 6.762,0 8.56,2.361 8.56,4.83 8.56,7.299 6.749,9.66 3.542,9.66 H 0 Z m 3.435,7.701 c 1.784,0 2.804,-1.395 2.804,-2.871 0,-1.462 -1.02,-2.871 -2.804,-2.871 H 2.268 V 7.701 Z M 14.96,0 h 2.657 L 14.49,4.857 17.59,9.66 H 14.987 L 13.069,6.48 11.123,9.66 H 8.48 L 11.592,4.857 8.453,0 h 2.589 l 1.973,3.22 z m 7.527,-0.175 c 2.778,0 4.294,1.664 4.589,3.784 h -2.295 c -0.214,-1.006 -1.046,-1.757 -2.24,-1.757 -1.731,0 -2.63,1.382 -2.63,2.978 0,1.597 0.899,2.979 2.63,2.979 1.194,0 2.026,-0.752 2.24,-1.758 h 2.295 c -0.295,2.12 -1.811,3.784 -4.589,3.784 -3.099,0 -4.897,-2.362 -4.897,-5.005 0,-2.643 1.798,-5.005 4.897,-5.005 m 5.354,1.45 c 0,-0.765 0.617,-1.396 1.394,-1.396 0.791,0 1.395,0.631 1.395,1.396 0,0.764 -0.604,1.395 -1.395,1.395 -0.777,0 -1.394,-0.631 -1.394,-1.395 m 2.964,5.662 V 5.219 h 1.087 V 2.402 c 0,-1.906 0.912,-2.509 2.562,-2.509 0.604,0 1.06,0.053 1.369,0.107 V 1.758 C 35.555,1.717 35.152,1.677 34.951,1.677 c -0.564,0 -0.873,0.188 -0.873,0.886 v 2.656 h 1.584 V 6.937 H 34.078 V 8.99 H 31.892 V 6.937 Z M 43.511,2.106 h -2.08 C 41.204,1.69 40.8,1.395 40.117,1.395 c -0.993,0 -1.49,0.631 -1.53,1.503 h 5.044 c 0.041,0.322 0.054,0.563 0.054,0.819 0,1.838 -1.274,3.407 -3.568,3.407 -2.362,0 -3.65,-1.65 -3.65,-3.663 0,-1.998 1.302,-3.649 3.676,-3.649 1.892,0 3.019,1.006 3.368,2.294 m -3.422,3.462 c 0.833,0 1.369,-0.523 1.45,-1.342 H 38.6 c 0.081,0.846 0.671,1.342 1.489,1.342 m 11.62,-1.301 c -0.269,1.61 -1.463,2.857 -3.556,2.857 -2.348,0 -3.77,-1.677 -3.77,-3.663 0,-1.972 1.422,-3.649 3.77,-3.649 2.093,0 3.287,1.248 3.556,2.858 H 49.508 C 49.32,2.066 48.851,1.664 48.167,1.664 c -0.967,0 -1.584,0.818 -1.584,1.797 0,0.98 0.617,1.812 1.584,1.812 0.684,0 1.14,-0.403 1.328,-1.006 z M 52.688,0 h 2.187 v 3.623 c 0,0.979 0.456,1.61 1.342,1.61 0.939,0 1.235,-0.577 1.235,-1.409 V 0 h 2.186 v 3.985 c 0,1.959 -0.858,3.126 -2.616,3.126 -1.02,0 -1.758,-0.456 -2.147,-1.181 v 4.133 h -2.187 z m 8.332,0 h 2.187 v 3.623 c 0,0.979 0.457,1.61 1.342,1.61 0.939,0 1.234,-0.577 1.234,-1.409 V 0 h 2.187 v 3.985 c 0,1.959 -0.858,3.126 -2.616,3.126 -1.033,0 -1.784,-0.456 -2.174,-1.181 v 1.007 h -2.16 z m 11.807,-0.188 c 2.415,0 3.851,1.677 3.851,3.649 0,1.986 -1.436,3.663 -3.851,3.663 -2.388,0 -3.837,-1.677 -3.837,-3.663 0,-1.972 1.449,-3.649 3.837,-3.649 m 0,1.892 c -0.993,0 -1.637,0.792 -1.637,1.757 0,0.967 0.644,1.772 1.637,1.772 0.993,0 1.65,-0.805 1.65,-1.772 0,-0.965 -0.657,-1.757 -1.65,-1.757 M 77.738,0 h 2.187 v 10.063 h -2.187 z m 7.084,-0.188 c 2.415,0 3.851,1.677 3.851,3.649 0,1.986 -1.436,3.663 -3.851,3.663 -2.388,0 -3.837,-1.677 -3.837,-3.663 0,-1.972 1.449,-3.649 3.837,-3.649 m 0,1.892 c -0.993,0 -1.637,0.792 -1.637,1.757 0,0.967 0.644,1.772 1.637,1.772 0.993,0 1.65,-0.805 1.65,-1.772 0,-0.965 -0.657,-1.757 -1.65,-1.757 m 12.263,-1.838 v 7.071 h -2.159 v -1.02 c -0.403,0.738 -1.302,1.194 -2.188,1.194 -2.026,0 -3.368,-1.57 -3.368,-3.65 0,-2.066 1.396,-3.528 3.395,-3.528 0.899,0 1.758,0.443 2.133,1.073 v -1.194 c 0,-0.993 -0.523,-1.543 -1.57,-1.543 -0.925,0 -1.435,0.429 -1.529,1.06 h -2.174 c 0.121,-1.543 1.342,-2.643 3.65,-2.643 2.563,0 3.81,1.154 3.81,3.18 m -3.877,1.838 c -0.966,0 -1.637,0.805 -1.637,1.757 0,0.953 0.671,1.772 1.637,1.772 1.006,0 1.677,-0.819 1.677,-1.772 0,-0.952 -0.671,-1.757 -1.677,-1.757 m 9.391,-2.724 c -0.577,-1.462 -1.301,-2.16 -2.952,-2.16 -0.389,0 -0.698,0.027 -0.952,0.067 v 1.838 c 0.228,-0.04 0.55,-0.08 0.724,-0.08 0.55,0 0.9,0.215 1.181,0.899 l 0.174,0.429 -2.978,6.964 h 2.388 l 1.731,-4.28 1.596,4.266 h 2.254 L 102.599,-1.02 M -22.023,4.821 c 0,-4.712 3.764,-8.443 8.443,-8.443 h 3.673 v 16.905 h -3.673 c -4.679,0 -8.443,-3.731 -8.443,-8.462 m -6.566,2.744 5.946,10.325 h -11.926 z m 0,-5.488 -5.98,-10.326 h 11.926 z m -6.601,2.744 c 0,4.731 -3.764,8.462 -8.442,8.462 h -3.674 V -3.622 h 3.674 c 4.678,0 8.442,3.731 8.442,8.443" /></g></g></g><text
+   id="text250"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.685,662.0891)"><tspan
+     id="tspan248"
+     y="0"
+     x="0 23.908001 50.008999 67.424004 92.106003 118.938 135.88 166.754 191.6467 215.6407">ThreatDeck</tspan></text>
+
+<text
+   id="text254"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,54.685,632.0891)"><tspan
+     id="tspan252"
+     y="0"
+     x="0 16.562 32.214001 39.467999 54.132 67.106003">Rules </tspan></text>
+
+<g
+   transform="translate(54.6851,621.1934)"
+   id="g256"><path
+     id="path258"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0,0 H 306.142" /></g></g></svg>

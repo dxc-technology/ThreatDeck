@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 312.12534 406.61469"
+   height="406.61469"
+   width="312.12534"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF>
+<rdf:Description rdf:about='' xmlns:dct='http://purl.org/dc/terms/'>
+      <dct:source rdf:resource='https://github.com/dxc-technology/ThreatDeck'>
+        <rdf:Alt>
+          <rdf:li xml:lang='x-default'>Based on a work at &lt;a rel=&#34;dct:source&#34; href=&#34;https://github.com/dxc-technology/ThreatDeck&#34;&gt;&lt;/a&gt;.</rdf:li>
+        </rdf:Alt>
+      </dct:source>
+    </rdf:Description>
+  <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <cc:attributionName>DXC Technology Company</cc:attributionName>
+    <cc:attributionURL rdf:resource="https://dxc.technology"/>
+  </cc:Work>
+  <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+  <requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+  <permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+  <permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+  <permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+  <requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+  <requires rdf:resource="http://creativecommons.org/ns#Notice" />
+  </cc:License>
+</rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath20"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path18"
+         d="M 12.1654,292.795 H 221.929 V 12.1653 H 12.1654 Z" /></clipPath><clipPath
+       id="clipPath38"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path36"
+         d="m 119.726,40.512 h 73.857 v 12.612 h -73.857 z" /></clipPath><clipPath
+       id="clipPath60"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path58"
+         d="M 12.1654,292.795 H 221.929 V 12.1653 H 12.1654 Z" /></clipPath><clipPath
+       id="clipPath72"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path70"
+         d="M 0,0 H 234.094 V 304.961 H 0 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,406.61467)"
+     id="g10"><g
+   id="g12"><g
+     id="g14"><g
+       clip-path="url(#clipPath20)"
+       id="g16"><path
+   id="path22"
+   style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   d="m 12.165,12.165 h 209.764 v 280.63 H 12.165 Z" /><text
+   id="text26"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,244.8489)"><tspan
+     id="tspan24"
+     y="0"
+     x="0">ThreatDeck</tspan></text>
+
+<g
+   transform="translate(40.5118,40.5118)"
+   id="g28"><path
+     id="path30"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="M 0,0 V 145.603 L 126.509,73.042 Z" /></g><g
+   id="g32"><g
+     clip-path="url(#clipPath38)"
+     id="g34"><g
+       transform="translate(142.5508,44.4918)"
+       id="g40"><path
+         id="path42"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 h 1.709 c 1.554,0 2.421,1.139 2.421,2.331 0,1.191 -0.874,2.33 -2.421,2.33 H 0 Z M 1.657,3.716 C 2.518,3.716 3.01,3.043 3.01,2.331 3.01,1.625 2.518,0.945 1.657,0.945 H 1.094 V 3.716 Z M 7.218,0 H 8.5 L 6.992,2.343 8.487,4.661 H 7.231 L 6.306,3.127 5.367,4.661 H 4.091 L 5.593,2.343 4.079,0 h 1.249 l 0.951,1.554 z m 3.632,-0.084 c 1.34,0 2.072,0.803 2.214,1.825 H 11.957 C 11.853,1.256 11.452,0.893 10.876,0.893 c -0.835,0 -1.269,0.667 -1.269,1.438 0,0.77 0.434,1.437 1.269,1.437 0.576,0 0.977,-0.363 1.081,-0.848 h 1.107 C 12.922,3.942 12.19,4.745 10.85,4.745 9.355,4.745 8.487,3.606 8.487,2.331 c 0,-1.276 0.868,-2.415 2.363,-2.415 m 2.583,0.699 c 0,-0.369 0.298,-0.673 0.673,-0.673 0.382,0 0.673,0.304 0.673,0.673 0,0.369 -0.291,0.673 -0.673,0.673 -0.375,0 -0.673,-0.304 -0.673,-0.673 m 1.43,2.732 V 2.518 h 0.525 V 1.159 c 0,-0.92 0.44,-1.211 1.236,-1.211 0.292,0 0.512,0.026 0.661,0.052 v 0.848 c -0.13,-0.019 -0.324,-0.039 -0.421,-0.039 -0.272,0 -0.421,0.091 -0.421,0.428 v 1.281 h 0.764 v 0.829 h -0.764 v 0.99 h -1.055 v -0.99 z m 6.131,-2.331 h -1.003 c -0.11,-0.2 -0.305,-0.343 -0.635,-0.343 -0.479,0 -0.718,0.304 -0.738,0.725 h 2.434 c 0.02,0.156 0.026,0.272 0.026,0.395 0,0.887 -0.615,1.644 -1.722,1.644 -1.139,0 -1.761,-0.796 -1.761,-1.767 0,-0.964 0.628,-1.761 1.774,-1.761 0.913,0 1.457,0.486 1.625,1.107 m -1.651,1.671 c 0.401,0 0.661,-0.253 0.699,-0.648 h -1.417 c 0.038,0.408 0.323,0.648 0.718,0.648 m 5.606,-0.628 c -0.129,0.777 -0.705,1.378 -1.715,1.378 -1.133,0 -1.819,-0.809 -1.819,-1.767 0,-0.951 0.686,-1.761 1.819,-1.761 1.01,0 1.586,0.602 1.715,1.379 H 23.888 C 23.797,0.997 23.57,0.803 23.24,0.803 c -0.466,0 -0.764,0.395 -0.764,0.867 0,0.473 0.298,0.874 0.764,0.874 0.33,0 0.551,-0.194 0.641,-0.485 z M 25.422,0 h 1.055 v 1.748 c 0,0.472 0.22,0.777 0.648,0.777 0.453,0 0.595,-0.279 0.595,-0.68 V 0 h 1.055 v 1.923 c 0,0.945 -0.414,1.508 -1.262,1.508 -0.492,0 -0.848,-0.22 -1.036,-0.57 v 1.994 h -1.055 z m 4.02,0 h 1.055 v 1.748 c 0,0.472 0.221,0.777 0.648,0.777 0.453,0 0.595,-0.279 0.595,-0.68 V 0 h 1.056 v 1.923 c 0,0.945 -0.415,1.508 -1.263,1.508 -0.498,0 -0.861,-0.22 -1.048,-0.57 v 0.486 h -1.043 z m 5.697,-0.091 c 1.165,0 1.858,0.81 1.858,1.761 0,0.958 -0.693,1.767 -1.858,1.767 -1.152,0 -1.851,-0.809 -1.851,-1.767 0,-0.951 0.699,-1.761 1.851,-1.761 m 0,0.913 c -0.479,0 -0.79,0.382 -0.79,0.848 0,0.466 0.311,0.855 0.79,0.855 0.479,0 0.796,-0.389 0.796,-0.855 0,-0.466 -0.317,-0.848 -0.796,-0.848 M 37.508,0 h 1.055 v 4.855 h -1.055 z m 3.419,-0.091 c 1.165,0 1.858,0.81 1.858,1.761 0,0.958 -0.693,1.767 -1.858,1.767 -1.153,0 -1.852,-0.809 -1.852,-1.767 0,-0.951 0.699,-1.761 1.852,-1.761 m 0,0.913 c -0.479,0 -0.79,0.382 -0.79,0.848 0,0.466 0.311,0.855 0.79,0.855 0.479,0 0.796,-0.389 0.796,-0.855 0,-0.466 -0.317,-0.848 -0.796,-0.848 m 5.917,-0.887 V 3.347 H 45.801 V 2.855 c -0.194,0.356 -0.627,0.576 -1.055,0.576 -0.977,0 -1.625,-0.757 -1.625,-1.761 0,-0.997 0.674,-1.702 1.638,-1.702 0.434,0 0.848,0.213 1.029,0.518 v -0.577 c 0,-0.479 -0.252,-0.744 -0.757,-0.744 -0.447,0 -0.693,0.207 -0.738,0.511 h -1.049 c 0.059,-0.744 0.648,-1.275 1.761,-1.275 1.237,0 1.839,0.557 1.839,1.534 m -1.871,0.887 c -0.466,0 -0.79,0.389 -0.79,0.848 0,0.46 0.324,0.855 0.79,0.855 0.485,0 0.809,-0.395 0.809,-0.855 0,-0.459 -0.324,-0.848 -0.809,-0.848 m 4.531,-1.314 c -0.278,-0.706 -0.628,-1.042 -1.424,-1.042 -0.188,0 -0.337,0.013 -0.46,0.032 v 0.887 c 0.11,-0.019 0.266,-0.039 0.35,-0.039 0.265,0 0.433,0.104 0.569,0.434 l 0.085,0.207 -1.438,3.36 h 1.153 l 0.835,-2.065 0.77,2.059 h 1.088 l -1.528,-3.833 m -60.13,2.818 c 0,-2.273 1.816,-4.074 4.074,-4.074 h 1.772 v 8.157 h -1.772 c -2.258,0 -4.074,-1.8 -4.074,-4.083 m -3.169,1.324 2.87,4.982 h -5.755 z m 0,-2.648 -2.885,-4.982 h 5.755 z m -3.184,1.324 c 0,2.283 -1.816,4.083 -4.074,4.083 h -1.772 v -8.157 h 1.772 c 2.258,0 4.074,1.801 4.074,4.074" /></g></g></g></g></g></g><text
+   id="text46"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,224.052)"><tspan
+     id="tspan44"
+     y="0"
+     x="0">Corporate </tspan></text>
+
+<text
+   id="text50"
+   style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Arial';-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,40.5118,212.052)"><tspan
+     id="tspan48"
+     y="0"
+     x="0">Finance</tspan></text>
+
+</g></svg>
