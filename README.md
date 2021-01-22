@@ -39,7 +39,7 @@ If you wish to build the project please follow these instructions to build PDFs 
 #### Instructions
 
 1. Download [Docker Desktop](https://www.docker.com/products/docker-desktop) 🐳
-2. Clone this repoistory to your local machine ⬇
+2. Clone this repository to your local machine ⬇
 3. Open a terminal 💻
 4. `cd` into the cloned directory. 📁
 5. Build the docker image by running `docker build --tag threatdeck .`, grab a coffee, this can take five minutes ☕
