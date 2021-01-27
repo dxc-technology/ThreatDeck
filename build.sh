@@ -81,14 +81,14 @@ do
       if [ $crop = true ]
       then
         echo stamping crop marks
-        java -jar lib/pdftk-all.jar "${side%.*}.pdf" stamp ./build/crops/cards-crop.pdf output "${side%.*}-crop.pdf"
+        java -jar lib/pdftk/pdftk-all.jar "${side%.*}.pdf" stamp ./build/crops/cards-crop.pdf output "${side%.*}-crop.pdf"
         rm "${side%.*}.pdf"
         mv "${side%.*}-crop.pdf" "${side%.*}.pdf"
       fi
       if [ $trim = true ]
       then
         echo stamping trim lines
-        java -jar lib/pdftk-all.jar "${side%.*}.pdf" stamp ./build/trims/cards-trim.pdf output "${side%.*}-trim.pdf"
+        java -jar lib/pdftk/pdftk-all.jar "${side%.*}.pdf" stamp ./build/trims/cards-trim.pdf output "${side%.*}-trim.pdf"
         rm "${side%.*}.pdf"
         mv "${side%.*}-trim.pdf" "${side%.*}.pdf"
       fi
@@ -96,7 +96,7 @@ do
     if [ $multiple = false ]
     then
       echo duplexing singles
-      java -jar lib/pdftk-all.jar $card/a.pdf $card/b.pdf cat output $cardtype/$(basename $card).pdf
+      java -jar lib/pdftk/pdftk-all.jar $card/a.pdf $card/b.pdf cat output $cardtype/$(basename $card).pdf
     fi
   done
   if [ $multiple = true ]
@@ -113,11 +113,11 @@ do
     for (( i=($folderCount - $remainder + 1); i<=$folderCount; i++))
     do
       echo duplexing single remainders
-      java -jar lib/pdftk-all.jar $cardtype/$i/a.pdf $cardtype/$i/b.pdf cat output $cardtype/$i.pdf
+      java -jar lib/pdftk/pdftk-all.jar $cardtype/$i/a.pdf $cardtype/$i/b.pdf cat output $cardtype/$i.pdf
     done
   fi
   echo merging $(basename $cardtype) pages
-  java -jar lib/pdftk-all.jar $(ls -v $cardtype/*.pdf | xargs) cat output "./build/$(basename $cardtype).pdf"
+  java -jar lib/pdftk/pdftk-all.jar $(ls -v $cardtype/*.pdf | xargs) cat output "./build/$(basename $cardtype).pdf"
   exiftool -tagsfromfile ./build/license.xmp -tagsfromfile ./build/attribution.xmp "./build/$(basename $cardtype).pdf" -overwrite_original &>/dev/null
 done
 
@@ -132,20 +132,20 @@ do
   if [ $crop = true ]
   then
     echo stamping crop marks
-    java -jar lib/pdftk-all.jar "${rule%.*}.pdf" stamp ./build/crops/rules-crop.pdf output "${rule%.*}-crop.pdf"
+    java -jar lib/pdftk/pdftk-all.jar "${rule%.*}.pdf" stamp ./build/crops/rules-crop.pdf output "${rule%.*}-crop.pdf"
     rm "${rule%.*}.pdf"
     mv "${rule%.*}-crop.pdf" "${rule%.*}.pdf"
   fi
   if [ $trim = true ]
   then
     echo stamping trim lines
-    java -jar lib/pdftk-all.jar "${rule%.*}.pdf" stamp ./build/trims/rules-trim.pdf output "${rule%.*}-trim.pdf"
+    java -jar lib/pdftk/pdftk-all.jar "${rule%.*}.pdf" stamp ./build/trims/rules-trim.pdf output "${rule%.*}-trim.pdf"
     rm "${rule%.*}.pdf"
     mv "${rule%.*}-trim.pdf" "${rule%.*}.pdf"
   fi
 done
 echo merging rules pages
-java -jar lib/pdftk-all.jar $(ls -v ./build/rules/*.pdf | xargs) cat output ./build/rules.pdf
+java -jar lib/pdftk/pdftk-all.jar $(ls -v ./build/rules/*.pdf | xargs) cat output ./build/rules.pdf
 exiftool -tagsfromfile ./build/license.xmp -tagsfromfile ./build/attribution.xmp ./build/rules.pdf -overwrite_original &>/dev/null
 
 # box
@@ -156,14 +156,14 @@ inkscape -T --export-pdf=./build/box/tuck_box.pdf ./build/box/tuck_box.svg &>/de
 if [ $fold = true ]
 then
   echo stamping fold lines
-  java -jar lib/pdftk-all.jar ./build/box/tuck_box.pdf stamp ./build/folds/tuck_box-fold.pdf output ./build/box/tuck_box-fold.pdf
+  java -jar lib/pdftk/pdftk-all.jar ./build/box/tuck_box.pdf stamp ./build/folds/tuck_box-fold.pdf output ./build/box/tuck_box-fold.pdf
   rm ./build/box/tuck_box.pdf
   mv ./build/box/tuck_box-fold.pdf ./build/box/tuck_box.pdf
 fi
 if [ $trim = true ]
 then
   echo stamping trim lines
-  java -jar lib/pdftk-all.jar ./build/box/tuck_box.pdf stamp ./build/trims/tuck_box-trim.pdf output ./build/box/tuck_box-trim.pdf
+  java -jar lib/pdftk/pdftk-all.jar ./build/box/tuck_box.pdf stamp ./build/trims/tuck_box-trim.pdf output ./build/box/tuck_box-trim.pdf
   rm ./build/box/tuck_box.pdf
   mv ./build/box/tuck_box-trim.pdf ./build/box/tuck_box.pdf
 fi

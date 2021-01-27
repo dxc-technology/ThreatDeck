@@ -1,0 +1,3 @@
+[submodule "lib/pdftk"]
+	path = lib/pdftk/src
+	url = https://gitlab.com/pdftk-java/pdftk.git
